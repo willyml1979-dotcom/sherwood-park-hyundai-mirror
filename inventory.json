@@ -1,7 +1,7 @@
 {
   "dealership": "Sherwood Park Hyundai",
-  "generated_at": "2026-10-04T18:55:23",
-  "vehicle_count": 181,
+  "generated_at": "2026-10-06T15:36:22",
+  "vehicle_count": 188,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
   "vehicles": [
@@ -10,6 +10,7 @@
       "vin": "5XYZHDAG0BG039638",
       "stock": "26TU852",
       "color": "Red",
+      "trim": "Limited w",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/used/4d90c835996d.html",
       "source_url": "https://www.sphyundai.com/vehicles/2011/hyundai/santa-fe/sherwood-park/ab/71455929/?sale_class=used",
       "dealer_url": "https://www.sphyundai.com/vehicles/2011/hyundai/santa-fe/sherwood-park/ab/71455929/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -17,7 +18,7 @@
       "odometer_km": 184204,
       "year": 2011,
       "make": "Hyundai",
-      "model": "Santa Fe Limited w",
+      "model": "Santa Fe",
       "condition": "used"
     },
     {
@@ -25,6 +26,7 @@
       "vin": "2GKFLVE34D6127675",
       "stock": "26SF764",
       "color": "Grey",
+      "trim": "SLT-1",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/used/9864fc43a6f3.html",
       "source_url": "https://www.sphyundai.com/vehicles/2013/gmc/terrain/sherwood-park/ab/71421386/?sale_class=used",
       "dealer_url": "https://www.sphyundai.com/vehicles/2013/gmc/terrain/sherwood-park/ab/71421386/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -34,7 +36,7 @@
       "odometer_km": 153584,
       "year": 2013,
       "make": "GMC",
-      "model": "Terrain SLT-1",
+      "model": "Terrain",
       "condition": "used"
     },
     {
@@ -42,6 +44,7 @@
       "vin": "2C3CDYAG7EH286903",
       "stock": "26TU148",
       "color": "Blue",
+      "trim": "SXT+",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/used/6fcf2f7af5e3.html",
       "source_url": "https://www.sphyundai.com/vehicles/2014/dodge/challenger/sherwood-park/ab/70846943/?sale_class=used",
       "dealer_url": "https://www.sphyundai.com/vehicles/2014/dodge/challenger/sherwood-park/ab/70846943/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -51,7 +54,7 @@
       "odometer_km": 83651,
       "year": 2014,
       "make": "Dodge",
-      "model": "Challenger SXT+",
+      "model": "Challenger",
       "condition": "used"
     },
     {
@@ -59,6 +62,7 @@
       "vin": "KNDPCCAC7E7629706",
       "stock": "P4618B",
       "color": "Brown",
+      "trim": "EX",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/used/60a0fbfe8455.html",
       "source_url": "https://www.sphyundai.com/vehicles/2014/kia/sportage/sherwood-park/ab/71356265/?sale_class=used",
       "dealer_url": "https://www.sphyundai.com/vehicles/2014/kia/sportage/sherwood-park/ab/71356265/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -68,7 +72,7 @@
       "odometer_km": 152771,
       "year": 2014,
       "make": "Kia",
-      "model": "Sportage EX",
+      "model": "Sportage",
       "condition": "used"
     },
     {
@@ -76,6 +80,7 @@
       "vin": "5N1AR2MM1FC666578",
       "stock": "P5892A",
       "color": "Red",
+      "trim": "Platinum",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/used/8122e989b097.html",
       "source_url": "https://www.sphyundai.com/vehicles/2015/nissan/pathfinder/sherwood-park/ab/71277140/?sale_class=used",
       "dealer_url": "https://www.sphyundai.com/vehicles/2015/nissan/pathfinder/sherwood-park/ab/71277140/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -85,7 +90,7 @@
       "odometer_km": 122139,
       "year": 2015,
       "make": "Nissan",
-      "model": "Pathfinder Platinum",
+      "model": "Pathfinder",
       "condition": "used"
     },
     {
@@ -93,6 +98,7 @@
       "vin": "JN1CV7AR2GM251290",
       "stock": "P30215A",
       "color": "Grey",
+      "trim": "2.0t",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/used/10f6c68a19ad.html",
       "source_url": "https://www.sphyundai.com/vehicles/2016/infiniti/q50/sherwood-park/ab/71140773/?sale_class=used",
       "dealer_url": "https://www.sphyundai.com/vehicles/2016/infiniti/q50/sherwood-park/ab/71140773/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -102,7 +108,7 @@
       "odometer_km": 98378,
       "year": 2016,
       "make": "Infiniti",
-      "model": "Q50 2.0t",
+      "model": "Q50",
       "condition": "used"
     },
     {
@@ -110,6 +116,7 @@
       "vin": "5XYPGDA10GG144340",
       "stock": "26IF840",
       "color": "Silver",
+      "trim": "LX",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/used/094f924915e6.html",
       "source_url": "https://www.sphyundai.com/vehicles/2016/kia/sorento/sherwood-park/ab/70869366/?sale_class=used",
       "dealer_url": "https://www.sphyundai.com/vehicles/2016/kia/sorento/sherwood-park/ab/70869366/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -119,7 +126,7 @@
       "odometer_km": 194698,
       "year": 2016,
       "make": "Kia",
-      "model": "Sorento LX",
+      "model": "Sorento",
       "condition": "used"
     },
     {
@@ -127,6 +134,7 @@
       "vin": "WDDHF9HB8GB180523",
       "stock": "P4293B",
       "color": "Grey",
+      "trim": "E 250 BlueTEC",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/used/9efe25be3186.html",
       "source_url": "https://www.sphyundai.com/vehicles/2016/mercedes-benz/e-class-sedan/sherwood-park/ab/71341254/?sale_class=used",
       "dealer_url": "https://www.sphyundai.com/vehicles/2016/mercedes-benz/e-class-sedan/sherwood-park/ab/71341254/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -136,7 +144,7 @@
       "odometer_km": 178213,
       "year": 2016,
       "make": "Mercedes-Benz",
-      "model": "E-Class Sedan E 250 BlueTEC",
+      "model": "E-Class",
       "condition": "used"
     },
     {
@@ -144,6 +152,7 @@
       "vin": "4T3BA3BB2GU076332",
       "stock": "26SF517",
       "color": "Grey",
+      "trim": "Cloth Interior",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/used/319945d9b3ff.html",
       "source_url": "https://www.sphyundai.com/vehicles/2016/toyota/venza/sherwood-park/ab/71032088/?sale_class=used",
       "dealer_url": "https://www.sphyundai.com/vehicles/2016/toyota/venza/sherwood-park/ab/71032088/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -153,7 +162,7 @@
       "odometer_km": 187502,
       "year": 2016,
       "make": "Toyota",
-      "model": "Venza Cloth Interior",
+      "model": "Venza",
       "condition": "used"
     },
     {
@@ -161,6 +170,7 @@
       "vin": "KM8J3CA42HU559774",
       "stock": "26TU359",
       "color": "White",
+      "trim": "Luxury",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/used/7adccac6c716.html",
       "source_url": "https://www.sphyundai.com/vehicles/2017/hyundai/tucson/sherwood-park/ab/71314933/?sale_class=used",
       "dealer_url": "https://www.sphyundai.com/vehicles/2017/hyundai/tucson/sherwood-park/ab/71314933/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -170,7 +180,7 @@
       "odometer_km": 75144,
       "year": 2017,
       "make": "Hyundai",
-      "model": "Tucson Luxury",
+      "model": "Tucson",
       "condition": "used"
     },
     {
@@ -195,6 +205,7 @@
       "vin": "1N4AL3APXHN329351",
       "stock": "26SF779",
       "color": "Black",
+      "trim": "SL",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/used/b0202fd41793.html",
       "source_url": "https://www.sphyundai.com/vehicles/2017/nissan/altima/sherwood-park/ab/71388957/?sale_class=used",
       "dealer_url": "https://www.sphyundai.com/vehicles/2017/nissan/altima/sherwood-park/ab/71388957/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -204,7 +215,7 @@
       "odometer_km": 177024,
       "year": 2017,
       "make": "Nissan",
-      "model": "Altima SL",
+      "model": "Altima",
       "condition": "used"
     },
     {
@@ -212,6 +223,7 @@
       "vin": "KM8J3CA24JU652266",
       "stock": "26TU361",
       "color": "Red",
+      "trim": "Ultimate",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/used/3e809fa93cb2.html",
       "source_url": "https://www.sphyundai.com/vehicles/2018/hyundai/tucson/sherwood-park/ab/71443887/?sale_class=used",
       "dealer_url": "https://www.sphyundai.com/vehicles/2018/hyundai/tucson/sherwood-park/ab/71443887/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -221,13 +233,14 @@
       "odometer_km": 109418,
       "year": 2018,
       "make": "Hyundai",
-      "model": "Tucson Ultimate",
+      "model": "Tucson",
       "condition": "used"
     },
     {
       "name": "2018 Mazda CX-9 Signature | HUD | Adaptive Cruise | Heated Seats",
       "vin": "JM3TCBEY3J0206145",
       "stock": "PC6145",
+      "trim": "Signature",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/used/9ec000b4f7e8.html",
       "source_url": "https://www.sphyundai.com/vehicles/2018/mazda/cx-9/sherwood-park/ab/71461595/?sale_class=used",
       "dealer_url": "https://www.sphyundai.com/vehicles/2018/mazda/cx-9/sherwood-park/ab/71461595/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -237,7 +250,7 @@
       "odometer_km": 164311,
       "year": 2018,
       "make": "Mazda",
-      "model": "CX-9 Signature",
+      "model": "CX-9",
       "condition": "used"
     },
     {
@@ -245,6 +258,7 @@
       "vin": "55SWF6EB0JU258879",
       "stock": "P1700A",
       "color": "Black",
+      "trim": "AMG C 43",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/used/9b9dfadfd4f9.html",
       "source_url": "https://www.sphyundai.com/vehicles/2018/mercedes-benz/c-class-sedan/sherwood-park/ab/71254950/?sale_class=used",
       "dealer_url": "https://www.sphyundai.com/vehicles/2018/mercedes-benz/c-class-sedan/sherwood-park/ab/71254950/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -254,7 +268,7 @@
       "odometer_km": 153381,
       "year": 2018,
       "make": "Mercedes-Benz",
-      "model": "C-Class Sedan AMG C 43",
+      "model": "C-Class",
       "condition": "used"
     },
     {
@@ -262,6 +276,7 @@
       "vin": "2GNAXUEV2K6115812",
       "stock": "26KN732",
       "color": "Grey",
+      "trim": "LT",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/used/0c7b54ae45a0.html",
       "source_url": "https://www.sphyundai.com/vehicles/2019/chevrolet/equinox/sherwood-park/ab/71102821/?sale_class=used",
       "dealer_url": "https://www.sphyundai.com/vehicles/2019/chevrolet/equinox/sherwood-park/ab/71102821/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -271,7 +286,7 @@
       "odometer_km": 195941,
       "year": 2019,
       "make": "Chevrolet",
-      "model": "Equinox LT",
+      "model": "Equinox",
       "condition": "used"
     },
     {
@@ -279,6 +294,7 @@
       "vin": "5FNRL6H85KB500638",
       "stock": "PC0638",
       "color": "Red",
+      "trim": "Touring",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/used/38e46a28d823.html",
       "source_url": "https://www.sphyundai.com/vehicles/2019/honda/odyssey/sherwood-park/ab/71303713/?sale_class=used",
       "dealer_url": "https://www.sphyundai.com/vehicles/2019/honda/odyssey/sherwood-park/ab/71303713/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -288,7 +304,7 @@
       "odometer_km": 116062,
       "year": 2019,
       "make": "Honda",
-      "model": "Odyssey Touring",
+      "model": "Odyssey",
       "condition": "used"
     },
     {
@@ -296,6 +312,7 @@
       "vin": "KM8J3CAL1KU894250",
       "stock": "PC4250",
       "color": "Grey",
+      "trim": "Preferred Trend",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/used/5b4cfd3d985a.html",
       "source_url": "https://www.sphyundai.com/vehicles/2019/hyundai/tucson/sherwood-park/ab/71403055/?sale_class=used",
       "dealer_url": "https://www.sphyundai.com/vehicles/2019/hyundai/tucson/sherwood-park/ab/71403055/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -305,7 +322,7 @@
       "odometer_km": 76288,
       "year": 2019,
       "make": "Hyundai",
-      "model": "Tucson Preferred Trend",
+      "model": "Tucson",
       "condition": "used"
     },
     {
@@ -330,6 +347,7 @@
       "vin": "WDC0G6EB6KF544697",
       "stock": "26PA912",
       "color": "Black",
+      "trim": "AMG GLC 43",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/used/a36806313a12.html",
       "source_url": "https://www.sphyundai.com/vehicles/2019/mercedes-benz/glc/sherwood-park/ab/70008894/?sale_class=used",
       "dealer_url": "https://www.sphyundai.com/vehicles/2019/mercedes-benz/glc/sherwood-park/ab/70008894/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -339,7 +357,7 @@
       "odometer_km": 126069,
       "year": 2019,
       "make": "Mercedes-Benz",
-      "model": "GLC AMG GLC 43",
+      "model": "GLC",
       "condition": "used"
     },
     {
@@ -364,6 +382,7 @@
       "vin": "5TFDY5F18KX797695",
       "stock": "PC7695",
       "color": "Blue",
+      "trim": "SR5 Plus",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/used/e7a73899eaab.html",
       "source_url": "https://www.sphyundai.com/vehicles/2019/toyota/tundra/sherwood-park/ab/71303711/?sale_class=used",
       "dealer_url": "https://www.sphyundai.com/vehicles/2019/toyota/tundra/sherwood-park/ab/71303711/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -373,7 +392,7 @@
       "odometer_km": 124412,
       "year": 2019,
       "make": "Toyota",
-      "model": "Tundra SR5 Plus",
+      "model": "Tundra",
       "condition": "used"
     },
     {
@@ -381,6 +400,7 @@
       "vin": "1FTER4FH5LLA17587",
       "stock": "27KN322",
       "color": "Grey",
+      "trim": "Lariat",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/used/71a707e07596.html",
       "source_url": "https://www.sphyundai.com/vehicles/2020/ford/ranger/sherwood-park/ab/71455928/?sale_class=used",
       "dealer_url": "https://www.sphyundai.com/vehicles/2020/ford/ranger/sherwood-park/ab/71455928/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -390,7 +410,7 @@
       "odometer_km": 107656,
       "year": 2020,
       "make": "Ford",
-      "model": "Ranger Lariat",
+      "model": "Ranger",
       "condition": "used"
     },
     {
@@ -398,6 +418,7 @@
       "vin": "3VWN57BU0LM003950",
       "stock": "P03950",
       "color": "Grey",
+      "trim": "Comfortline",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/used/e06e26b407cc.html",
       "source_url": "https://www.sphyundai.com/vehicles/2020/volkswagen/jetta-sedan/sherwood-park/ab/70821289/?sale_class=used",
       "dealer_url": "https://www.sphyundai.com/vehicles/2020/volkswagen/jetta-sedan/sherwood-park/ab/70821289/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -407,7 +428,7 @@
       "odometer_km": 105109,
       "year": 2020,
       "make": "Volkswagen",
-      "model": "Jetta Sedan Comfortline",
+      "model": "Jetta",
       "condition": "used"
     },
     {
@@ -415,6 +436,7 @@
       "vin": "1C4RDJAGXMC804307",
       "stock": "PC6403A",
       "color": "Black",
+      "trim": "SXT",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/used/8aa7e9a20c7f.html",
       "source_url": "https://www.sphyundai.com/vehicles/2021/dodge/durango/sherwood-park/ab/70969613/?sale_class=used",
       "dealer_url": "https://www.sphyundai.com/vehicles/2021/dodge/durango/sherwood-park/ab/70969613/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -424,7 +446,7 @@
       "odometer_km": 148927,
       "year": 2021,
       "make": "Dodge",
-      "model": "Durango SXT",
+      "model": "Durango",
       "condition": "used"
     },
     {
@@ -432,6 +454,7 @@
       "vin": "KMTG64LA8MU079751",
       "stock": "P9751",
       "color": "Grey",
+      "trim": "2.0T Elite",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/used/a6fe08250a6c.html",
       "source_url": "https://www.sphyundai.com/vehicles/2021/genesis/g70/sherwood-park/ab/70268140/?sale_class=used",
       "dealer_url": "https://www.sphyundai.com/vehicles/2021/genesis/g70/sherwood-park/ab/70268140/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -441,7 +464,7 @@
       "odometer_km": 52787,
       "year": 2021,
       "make": "Genesis",
-      "model": "G70 2.0T Elite",
+      "model": "G70",
       "condition": "used"
     },
     {
@@ -449,6 +472,7 @@
       "vin": "KMTG64LA2MU079857",
       "stock": "PC9857",
       "color": "Silver",
+      "trim": "2.0T Elite",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/used/9887832a6551.html",
       "source_url": "https://www.sphyundai.com/vehicles/2021/genesis/g70/sherwood-park/ab/71073532/?sale_class=used",
       "dealer_url": "https://www.sphyundai.com/vehicles/2021/genesis/g70/sherwood-park/ab/71073532/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -458,7 +482,7 @@
       "odometer_km": 121920,
       "year": 2021,
       "make": "Genesis",
-      "model": "G70 2.0T Elite",
+      "model": "G70",
       "condition": "used"
     },
     {
@@ -466,6 +490,7 @@
       "vin": "KMUHBDSB1MU047763",
       "stock": "P47763",
       "color": "Silver",
+      "trim": "2.5T Select",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/used/4851eabed93b.html",
       "source_url": "https://www.sphyundai.com/vehicles/2021/genesis/gv80/sherwood-park/ab/69939070/?sale_class=used",
       "dealer_url": "https://www.sphyundai.com/vehicles/2021/genesis/gv80/sherwood-park/ab/69939070/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -475,7 +500,7 @@
       "odometer_km": 53142,
       "year": 2021,
       "make": "Genesis",
-      "model": "GV80 2.5T Select",
+      "model": "GV80",
       "condition": "used"
     },
     {
@@ -483,6 +508,7 @@
       "vin": "KMUHBDSB6MU048570",
       "stock": "PC8570",
       "color": "Green",
+      "trim": "2.5T Advanced",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/used/4babc3137f1c.html",
       "source_url": "https://www.sphyundai.com/vehicles/2021/genesis/gv80/sherwood-park/ab/71118995/?sale_class=used",
       "dealer_url": "https://www.sphyundai.com/vehicles/2021/genesis/gv80/sherwood-park/ab/71118995/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -492,7 +518,7 @@
       "odometer_km": 98981,
       "year": 2021,
       "make": "Genesis",
-      "model": "GV80 2.5T Advanced",
+      "model": "GV80",
       "condition": "used"
     },
     {
@@ -500,6 +526,7 @@
       "vin": "KM8R5DHE5MU185480",
       "stock": "26PA330",
       "color": "Black",
+      "trim": "Ultimate Calligraphy 7P",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/used/7d9809e2c328.html",
       "source_url": "https://www.sphyundai.com/vehicles/2021/hyundai/palisade/sherwood-park/ab/71118997/?sale_class=used",
       "dealer_url": "https://www.sphyundai.com/vehicles/2021/hyundai/palisade/sherwood-park/ab/71118997/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -509,7 +536,7 @@
       "odometer_km": 98442,
       "year": 2021,
       "make": "Hyundai",
-      "model": "Palisade Ultimate Calligraphy 7P",
+      "model": "Palisade",
       "condition": "used"
     },
     {
@@ -517,6 +544,7 @@
       "vin": "5NMS24AJ4MH314757",
       "stock": "PC4757",
       "color": "White",
+      "trim": "Essential",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/used/c0b805bb037c.html",
       "source_url": "https://www.sphyundai.com/vehicles/2021/hyundai/santa-fe/sherwood-park/ab/71303712/?sale_class=used",
       "dealer_url": "https://www.sphyundai.com/vehicles/2021/hyundai/santa-fe/sherwood-park/ab/71303712/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -526,7 +554,7 @@
       "odometer_km": 21085,
       "year": 2021,
       "make": "Hyundai",
-      "model": "Santa Fe Essential",
+      "model": "Santa Fe",
       "condition": "used"
     },
     {
@@ -534,6 +562,7 @@
       "vin": "5NPEJ4J28MH068324",
       "stock": "26TU165",
       "color": "Black",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/used/431a4ba2d0b3.html",
       "source_url": "https://www.sphyundai.com/vehicles/2021/hyundai/sonata/sherwood-park/ab/70706840/?sale_class=used",
       "dealer_url": "https://www.sphyundai.com/vehicles/2021/hyundai/sonata/sherwood-park/ab/70706840/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -543,7 +572,7 @@
       "odometer_km": 123325,
       "year": 2021,
       "make": "Hyundai",
-      "model": "Sonata Sport",
+      "model": "Sonata",
       "condition": "used"
     },
     {
@@ -551,6 +580,7 @@
       "vin": "3PCAJ5BBXMF119467",
       "stock": "P9467",
       "color": "Black",
+      "trim": "Luxe",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/used/7b41257f6e26.html",
       "source_url": "https://www.sphyundai.com/vehicles/2021/infiniti/qx50/sherwood-park/ab/68769120/?sale_class=used",
       "dealer_url": "https://www.sphyundai.com/vehicles/2021/infiniti/qx50/sherwood-park/ab/68769120/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -560,7 +590,7 @@
       "odometer_km": 75574,
       "year": 2021,
       "make": "Infiniti",
-      "model": "QX50 Luxe",
+      "model": "QX50",
       "condition": "used"
     },
     {
@@ -568,6 +598,7 @@
       "vin": "W1KWF8EB6MR647205",
       "stock": "P7205",
       "color": "White",
+      "trim": "C 300",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/used/7cadec8e2d9c.html",
       "source_url": "https://www.sphyundai.com/vehicles/2021/mercedes-benz/c-class-sedan/sherwood-park/ab/69237770/?sale_class=used",
       "dealer_url": "https://www.sphyundai.com/vehicles/2021/mercedes-benz/c-class-sedan/sherwood-park/ab/69237770/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -577,7 +608,7 @@
       "odometer_km": 103401,
       "year": 2021,
       "make": "Mercedes-Benz",
-      "model": "C-Class Sedan C 300",
+      "model": "C-Class",
       "condition": "used"
     },
     {
@@ -585,6 +616,7 @@
       "vin": "JN1BJ1BW6MW439139",
       "stock": "26TU570",
       "color": "White",
+      "trim": "SV",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/used/d645d3ab233c.html",
       "source_url": "https://www.sphyundai.com/vehicles/2021/nissan/qashqai/sherwood-park/ab/71173823/?sale_class=used",
       "dealer_url": "https://www.sphyundai.com/vehicles/2021/nissan/qashqai/sherwood-park/ab/71173823/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -594,7 +626,7 @@
       "odometer_km": 88558,
       "year": 2021,
       "make": "Nissan",
-      "model": "Qashqai SV",
+      "model": "Qashqai",
       "condition": "used"
     },
     {
@@ -602,6 +634,7 @@
       "vin": "3VV2B7AX1MM068688",
       "stock": "P8688",
       "color": "White",
+      "trim": "Comfortline",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/used/2fbef8baefcf.html",
       "source_url": "https://www.sphyundai.com/vehicles/2021/volkswagen/tiguan/sherwood-park/ab/70810337/?sale_class=used",
       "dealer_url": "https://www.sphyundai.com/vehicles/2021/volkswagen/tiguan/sherwood-park/ab/70810337/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -611,7 +644,7 @@
       "odometer_km": 119266,
       "year": 2021,
       "make": "Volkswagen",
-      "model": "Tiguan Comfortline",
+      "model": "Tiguan",
       "condition": "used"
     },
     {
@@ -619,6 +652,7 @@
       "vin": "5J8YE1H80NL803208",
       "stock": "26PA062",
       "color": "Silver",
+      "trim": "Platinum Elite",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/used/b1dbaf441380.html",
       "source_url": "https://www.sphyundai.com/vehicles/2022/acura/mdx/sherwood-park/ab/71031976/?sale_class=used",
       "dealer_url": "https://www.sphyundai.com/vehicles/2022/acura/mdx/sherwood-park/ab/71031976/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -628,7 +662,7 @@
       "odometer_km": 69126,
       "year": 2022,
       "make": "Acura",
-      "model": "MDX Platinum Elite",
+      "model": "MDX",
       "condition": "used"
     },
     {
@@ -636,6 +670,7 @@
       "vin": "WA1FVBF1XND032567",
       "stock": "P2567",
       "color": "Blue",
+      "trim": "Technik",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/used/3134d70f0393.html",
       "source_url": "https://www.sphyundai.com/vehicles/2022/audi/q8/sherwood-park/ab/71399881/?sale_class=used",
       "dealer_url": "https://www.sphyundai.com/vehicles/2022/audi/q8/sherwood-park/ab/71399881/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -645,7 +680,7 @@
       "odometer_km": 85185,
       "year": 2022,
       "make": "Audi",
-      "model": "Q8 Technik",
+      "model": "Q8",
       "condition": "used"
     },
     {
@@ -653,6 +688,7 @@
       "vin": "2FMPK4J90NBA49309",
       "stock": "PC9309",
       "color": "Blue",
+      "trim": "SEL",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/used/609feaa20c5f.html",
       "source_url": "https://www.sphyundai.com/vehicles/2022/ford/edge/sherwood-park/ab/71070726/?sale_class=used",
       "dealer_url": "https://www.sphyundai.com/vehicles/2022/ford/edge/sherwood-park/ab/71070726/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -662,7 +698,7 @@
       "odometer_km": 66723,
       "year": 2022,
       "make": "Ford",
-      "model": "Edge SEL",
+      "model": "Edge",
       "condition": "used"
     },
     {
@@ -670,6 +706,7 @@
       "vin": "KMUMCDTC6NU024497",
       "stock": "PC4497",
       "color": "Black",
+      "trim": "3.5T Sport+",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/used/53f5eeeeb508.html",
       "source_url": "https://www.sphyundai.com/vehicles/2022/genesis/gv70/sherwood-park/ab/70745458/?sale_class=used",
       "dealer_url": "https://www.sphyundai.com/vehicles/2022/genesis/gv70/sherwood-park/ab/70745458/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -679,7 +716,7 @@
       "odometer_km": 98156,
       "year": 2022,
       "make": "Genesis",
-      "model": "GV70 3.5T Sport+",
+      "model": "GV70",
       "condition": "used"
     },
     {
@@ -687,6 +724,7 @@
       "vin": "KMHLR4AF7NU272697",
       "stock": "P2697",
       "color": "White",
+      "trim": "N N Line",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/used/a6554f9f3808.html",
       "source_url": "https://www.sphyundai.com/vehicles/2022/hyundai/elantra-n/sherwood-park/ab/71367077/?sale_class=used",
       "dealer_url": "https://www.sphyundai.com/vehicles/2022/hyundai/elantra-n/sherwood-park/ab/71367077/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -696,7 +734,7 @@
       "odometer_km": 91910,
       "year": 2022,
       "make": "Hyundai",
-      "model": "Elantra N N Line",
+      "model": "Elantra",
       "condition": "used"
     },
     {
@@ -704,6 +742,7 @@
       "vin": "KMHLM4AG7NU215617",
       "stock": "26TU872",
       "color": "Grey",
+      "trim": "Preferred Sun & Tech",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/used/9ef0002a5b64.html",
       "source_url": "https://www.sphyundai.com/vehicles/2022/hyundai/elantra/sherwood-park/ab/70665492/?sale_class=used",
       "dealer_url": "https://www.sphyundai.com/vehicles/2022/hyundai/elantra/sherwood-park/ab/70665492/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -713,7 +752,7 @@
       "odometer_km": 59128,
       "year": 2022,
       "make": "Hyundai",
-      "model": "Elantra Preferred Sun & Tech",
+      "model": "Elantra",
       "condition": "used"
     },
     {
@@ -721,6 +760,7 @@
       "vin": "KM8R2DHE9NU432218",
       "stock": "P2218",
       "color": "Black",
+      "trim": "Essential 8P",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/used/5d6dc85d071d.html",
       "source_url": "https://www.sphyundai.com/vehicles/2022/hyundai/palisade/sherwood-park/ab/69249964/?sale_class=used",
       "dealer_url": "https://www.sphyundai.com/vehicles/2022/hyundai/palisade/sherwood-park/ab/69249964/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -730,7 +770,7 @@
       "odometer_km": 144924,
       "year": 2022,
       "make": "Hyundai",
-      "model": "Palisade Essential 8P",
+      "model": "Palisade",
       "condition": "used"
     },
     {
@@ -738,6 +778,7 @@
       "vin": "KM8R5DHE3NU344417",
       "stock": "27PA946",
       "color": "Grey",
+      "trim": "Ultimate Calligraphy 7P",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/used/8c974c298020.html",
       "source_url": "https://www.sphyundai.com/vehicles/2022/hyundai/palisade/sherwood-park/ab/71173815/?sale_class=used",
       "dealer_url": "https://www.sphyundai.com/vehicles/2022/hyundai/palisade/sherwood-park/ab/71173815/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -747,7 +788,7 @@
       "odometer_km": 110564,
       "year": 2022,
       "make": "Hyundai",
-      "model": "Palisade Ultimate Calligraphy 7P",
+      "model": "Palisade",
       "condition": "used"
     },
     {
@@ -755,6 +796,7 @@
       "vin": "KM8R5DHE9NU359276",
       "stock": "P9276",
       "color": "White",
+      "trim": "Ultimate Calligraphy 7P",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/used/49d8d2494541.html",
       "source_url": "https://www.sphyundai.com/vehicles/2022/hyundai/palisade/sherwood-park/ab/71293434/?sale_class=used",
       "dealer_url": "https://www.sphyundai.com/vehicles/2022/hyundai/palisade/sherwood-park/ab/71293434/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -764,7 +806,7 @@
       "odometer_km": 64531,
       "year": 2022,
       "make": "Hyundai",
-      "model": "Palisade Ultimate Calligraphy 7P",
+      "model": "Palisade",
       "condition": "used"
     },
     {
@@ -772,6 +814,7 @@
       "vin": "KM8R5DHE9NU349427",
       "stock": "26PA263",
       "color": "Black",
+      "trim": "Ultimate Calligraphy 7P",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/used/98870e82526a.html",
       "source_url": "https://www.sphyundai.com/vehicles/2022/hyundai/palisade/sherwood-park/ab/71455930/?sale_class=used",
       "dealer_url": "https://www.sphyundai.com/vehicles/2022/hyundai/palisade/sherwood-park/ab/71455930/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -781,13 +824,32 @@
       "odometer_km": 76299,
       "year": 2022,
       "make": "Hyundai",
-      "model": "Palisade Ultimate Calligraphy 7P",
+      "model": "Palisade",
+      "condition": "used"
+    },
+    {
+      "name": "2022 Lincoln Navigator Reserve | Adaptive Cruise | Cooled Seats | Sunroof",
+      "vin": "5LMJJ2LT1NEL07750",
+      "stock": "26SF141",
+      "color": "White",
+      "trim": "Reserve",
+      "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/used/fafa0cd0101d.html",
+      "source_url": "https://www.sphyundai.com/vehicles/2022/lincoln/navigator/sherwood-park/ab/70065024/?sale_class=used",
+      "dealer_url": "https://www.sphyundai.com/vehicles/2022/lincoln/navigator/sherwood-park/ab/70065024/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-06T15:33:00",
+      "price": 57907.0,
+      "price_currency": "CAD",
+      "odometer_km": 124587,
+      "year": 2022,
+      "make": "Lincoln",
+      "model": "Navigator",
       "condition": "used"
     },
     {
       "name": "2022 Mercedes-Benz GLC GLC 300 | Traffic Sign Recognition | Heated Seats",
       "vin": "W1N0G8EB9NV340691",
       "stock": "PC0691",
+      "trim": "GLC 300",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/used/2ec8324d8335.html",
       "source_url": "https://www.sphyundai.com/vehicles/2022/mercedes-benz/glc/sherwood-park/ab/71461594/?sale_class=used",
       "dealer_url": "https://www.sphyundai.com/vehicles/2022/mercedes-benz/glc/sherwood-park/ab/71461594/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -797,7 +859,7 @@
       "odometer_km": 142652,
       "year": 2022,
       "make": "Mercedes-Benz",
-      "model": "GLC GLC 300",
+      "model": "GLC",
       "condition": "used"
     },
     {
@@ -805,6 +867,7 @@
       "vin": "4JGFB4KB5NA757208",
       "stock": "P57208",
       "color": "Black",
+      "trim": "GLE 350",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/used/d378d473a346.html",
       "source_url": "https://www.sphyundai.com/vehicles/2022/mercedes-benz/gle/sherwood-park/ab/69209431/?sale_class=used",
       "dealer_url": "https://www.sphyundai.com/vehicles/2022/mercedes-benz/gle/sherwood-park/ab/69209431/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -814,7 +877,7 @@
       "odometer_km": 81852,
       "year": 2022,
       "make": "Mercedes-Benz",
-      "model": "GLE GLE 350",
+      "model": "GLE",
       "condition": "used"
     },
     {
@@ -822,16 +885,17 @@
       "vin": "3VVAX7B28NM010269",
       "stock": "P0269",
       "color": "Black",
+      "trim": "Trendline",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/used/ebb4c171c83d.html",
       "source_url": "https://www.sphyundai.com/vehicles/2022/volkswagen/taos/sherwood-park/ab/70810332/?sale_class=used",
       "dealer_url": "https://www.sphyundai.com/vehicles/2022/volkswagen/taos/sherwood-park/ab/70810332/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-01T18:14:49",
-      "price": 21507.0,
+      "last_verified": "2026-10-06T15:34:05",
+      "price": 19900.0,
       "price_currency": "CAD",
       "odometer_km": 75117,
       "year": 2022,
       "make": "Volkswagen",
-      "model": "Taos Trendline",
+      "model": "Taos",
       "condition": "used"
     },
     {
@@ -839,33 +903,35 @@
       "vin": "3VV8B7AX4NM076814",
       "stock": "26SF204",
       "color": "White",
+      "trim": "Comfortline R-Line Black Edition",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/used/0a10d8c6565b.html",
       "source_url": "https://www.sphyundai.com/vehicles/2022/volkswagen/tiguan/sherwood-park/ab/71356266/?sale_class=used",
       "dealer_url": "https://www.sphyundai.com/vehicles/2022/volkswagen/tiguan/sherwood-park/ab/71356266/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-01T18:14:59",
+      "last_verified": "2026-10-06T15:34:15",
       "price": 23907.0,
       "price_currency": "CAD",
       "odometer_km": 132828,
       "year": 2022,
       "make": "Volkswagen",
-      "model": "Tiguan Comfortline R-Line Black Edition",
+      "model": "Tiguan",
       "condition": "used"
     },
     {
       "name": "2022 Volvo XC60 Recharge Inscription Express | Roof Rails | Pano Sunroof",
       "vin": "LYVBR0DZ5NB935497",
       "stock": "P35497",
-      "color": "Grey",
+      "color": "Silver",
+      "trim": "Recharge Inscription Express",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/used/a7a8aa7494df.html",
       "source_url": "https://www.sphyundai.com/vehicles/2022/volvo/xc60-recharge/sherwood-park/ab/70147798/?sale_class=used",
       "dealer_url": "https://www.sphyundai.com/vehicles/2022/volvo/xc60-recharge/sherwood-park/ab/70147798/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-01T18:15:09",
-      "price": 33907.0,
+      "last_verified": "2026-10-06T15:34:25",
+      "price": 33499.0,
       "price_currency": "CAD",
       "odometer_km": 91485,
       "year": 2022,
       "make": "Volvo",
-      "model": "XC60 Recharge Inscription Express",
+      "model": "XC60",
       "condition": "used"
     },
     {
@@ -873,16 +939,17 @@
       "vin": "LYVBR0DK5NB918217",
       "stock": "P8217",
       "color": "Black",
+      "trim": "Recharge Inscription Expression",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/used/d50dc15eebdb.html",
       "source_url": "https://www.sphyundai.com/vehicles/2022/volvo/xc60-recharge/sherwood-park/ab/70305558/?sale_class=used",
       "dealer_url": "https://www.sphyundai.com/vehicles/2022/volvo/xc60-recharge/sherwood-park/ab/70305558/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-01T18:15:19",
-      "price": 31507.0,
+      "last_verified": "2026-10-06T15:34:34",
+      "price": 29900.0,
       "price_currency": "CAD",
       "odometer_km": 122246,
       "year": 2022,
       "make": "Volvo",
-      "model": "XC60 Recharge Inscription Expression",
+      "model": "XC60",
       "condition": "used"
     },
     {
@@ -890,16 +957,17 @@
       "vin": "5GAEVBKW5PJ222799",
       "stock": "26SF204",
       "color": "Red",
+      "trim": "Premium",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/used/e09367b26418.html",
       "source_url": "https://www.sphyundai.com/vehicles/2023/buick/enclave/sherwood-park/ab/70665494/?sale_class=used",
       "dealer_url": "https://www.sphyundai.com/vehicles/2023/buick/enclave/sherwood-park/ab/70665494/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-01T18:15:27",
-      "price": 37507.0,
+      "last_verified": "2026-10-06T15:34:42",
+      "price": 36907.0,
       "price_currency": "CAD",
       "odometer_km": 112433,
       "year": 2023,
       "make": "Buick",
-      "model": "Enclave Premium",
+      "model": "Enclave",
       "condition": "used"
     },
     {
@@ -907,6 +975,7 @@
       "vin": "KMUHBDSB6PU111834",
       "stock": "P1834",
       "color": "Black",
+      "trim": "2.5T Advanced",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/used/a09f4f66038a.html",
       "source_url": "https://www.sphyundai.com/vehicles/2023/genesis/gv80/sherwood-park/ab/71390991/?sale_class=used",
       "dealer_url": "https://www.sphyundai.com/vehicles/2023/genesis/gv80/sherwood-park/ab/71390991/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -916,7 +985,7 @@
       "odometer_km": 61922,
       "year": 2023,
       "make": "Genesis",
-      "model": "GV80 2.5T Advanced",
+      "model": "GV80",
       "condition": "used"
     },
     {
@@ -924,16 +993,17 @@
       "vin": "KMHLN4AG0PU421345",
       "stock": "26EL756",
       "color": "Grey",
+      "trim": "Luxury",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/used/c55a25355d15.html",
       "source_url": "https://www.sphyundai.com/vehicles/2023/hyundai/elantra/sherwood-park/ab/70293310/?sale_class=used",
       "dealer_url": "https://www.sphyundai.com/vehicles/2023/hyundai/elantra/sherwood-park/ab/70293310/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-01T18:15:49",
-      "price": 16907.0,
+      "last_verified": "2026-10-06T15:34:51",
+      "price": 15900.0,
       "price_currency": "CAD",
       "odometer_km": 130862,
       "year": 2023,
       "make": "Hyundai",
-      "model": "Elantra Luxury",
+      "model": "Elantra",
       "condition": "used"
     },
     {
@@ -941,16 +1011,17 @@
       "vin": "KMHLN4AG8PU579092",
       "stock": "26TU211",
       "color": "Grey",
+      "trim": "Luxury",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/used/a239aeaa3114.html",
       "source_url": "https://www.sphyundai.com/vehicles/2023/hyundai/elantra/sherwood-park/ab/71102816/?sale_class=used",
       "dealer_url": "https://www.sphyundai.com/vehicles/2023/hyundai/elantra/sherwood-park/ab/71102816/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-01T18:15:58",
+      "last_verified": "2026-10-06T15:34:59",
       "price": 20907.0,
       "price_currency": "CAD",
       "odometer_km": 62408,
       "year": 2023,
       "make": "Hyundai",
-      "model": "Elantra Luxury",
+      "model": "Elantra",
       "condition": "used"
     },
     {
@@ -958,16 +1029,17 @@
       "vin": "KM8K23AGXPU172650",
       "stock": "PC2650",
       "color": "Black",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/used/55e163c14544.html",
       "source_url": "https://www.sphyundai.com/vehicles/2023/hyundai/kona-electric/sherwood-park/ab/71421387/?sale_class=used",
       "dealer_url": "https://www.sphyundai.com/vehicles/2023/hyundai/kona-electric/sherwood-park/ab/71421387/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-01T18:16:07",
+      "last_verified": "2026-10-06T15:35:08",
       "price": 28907.0,
       "price_currency": "CAD",
-      "odometer_km": 52088,
+      "odometer_km": 52098,
       "year": 2023,
       "make": "Hyundai",
-      "model": "Kona Electric Preferred FWD",
+      "model": "Kona Electric",
       "condition": "used"
     },
     {
@@ -975,16 +1047,17 @@
       "vin": "KM8R5DGE0PU532901",
       "stock": "P2901",
       "color": "Black",
+      "trim": "Ultimate 7P",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/used/0ad8d1802a98.html",
       "source_url": "https://www.sphyundai.com/vehicles/2023/hyundai/palisade/sherwood-park/ab/69854364/?sale_class=used",
       "dealer_url": "https://www.sphyundai.com/vehicles/2023/hyundai/palisade/sherwood-park/ab/69854364/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-01T18:16:16",
-      "price": 38000.0,
+      "last_verified": "2026-10-06T15:35:16",
+      "price": 36907.0,
       "price_currency": "CAD",
       "odometer_km": 77238,
       "year": 2023,
       "make": "Hyundai",
-      "model": "Palisade Ultimate 7P",
+      "model": "Palisade",
       "condition": "used"
     },
     {
@@ -992,16 +1065,17 @@
       "vin": "KM8R5DGE4PU561429",
       "stock": "26TU127",
       "color": "Silver",
+      "trim": "Ultimate 7P",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/used/f7bcd1b35fc1.html",
       "source_url": "https://www.sphyundai.com/vehicles/2023/hyundai/palisade/sherwood-park/ab/70419092/?sale_class=used",
       "dealer_url": "https://www.sphyundai.com/vehicles/2023/hyundai/palisade/sherwood-park/ab/70419092/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-01T18:16:25",
+      "last_verified": "2026-10-06T15:35:27",
       "price": 40907.0,
       "price_currency": "CAD",
       "odometer_km": 76865,
       "year": 2023,
       "make": "Hyundai",
-      "model": "Palisade Ultimate 7P",
+      "model": "Palisade",
       "condition": "used"
     },
     {
@@ -1009,16 +1083,17 @@
       "vin": "5NMS5DAL8PH543505",
       "stock": "26TU306",
       "color": "White",
+      "trim": "Ultimate",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/used/618a8d17fe2c.html",
       "source_url": "https://www.sphyundai.com/vehicles/2023/hyundai/santa-fe/sherwood-park/ab/70482856/?sale_class=used",
       "dealer_url": "https://www.sphyundai.com/vehicles/2023/hyundai/santa-fe/sherwood-park/ab/70482856/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-01T18:16:33",
+      "last_verified": "2026-10-06T15:35:37",
       "price": 30507.0,
       "price_currency": "CAD",
       "odometer_km": 75023,
       "year": 2023,
       "make": "Hyundai",
-      "model": "Santa Fe Ultimate",
+      "model": "Santa Fe",
       "condition": "used"
     },
     {
@@ -1026,16 +1101,17 @@
       "vin": "5NMS3DAJ1PH580982",
       "stock": "P80982",
       "color": "Grey",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/used/035596a4ed96.html",
       "source_url": "https://www.sphyundai.com/vehicles/2023/hyundai/santa-fe/sherwood-park/ab/70484597/?sale_class=used",
       "dealer_url": "https://www.sphyundai.com/vehicles/2023/hyundai/santa-fe/sherwood-park/ab/70484597/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-01T18:16:42",
-      "price": 28507.0,
+      "last_verified": "2026-10-06T15:35:47",
+      "price": 27888.0,
       "price_currency": "CAD",
       "odometer_km": 60646,
       "year": 2023,
       "make": "Hyundai",
-      "model": "Santa Fe Preferred",
+      "model": "Santa Fe",
       "condition": "used"
     },
     {
@@ -1043,16 +1119,17 @@
       "vin": "KMHRC8A34PU230869",
       "stock": "26VN601",
       "color": "Red",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/used/d2b16d9736a8.html",
       "source_url": "https://www.sphyundai.com/vehicles/2023/hyundai/venue/sherwood-park/ab/71432717/?sale_class=used",
       "dealer_url": "https://www.sphyundai.com/vehicles/2023/hyundai/venue/sherwood-park/ab/71432717/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-01T18:16:51",
+      "last_verified": "2026-10-06T15:35:58",
       "price": 18507.0,
       "price_currency": "CAD",
       "odometer_km": 75619,
       "year": 2023,
       "make": "Hyundai",
-      "model": "Venue Preferred",
+      "model": "Venue",
       "condition": "used"
     },
     {
@@ -1060,16 +1137,17 @@
       "vin": "KNDETCA26P7362009",
       "stock": "P9395A",
       "color": "Black",
+      "trim": "SX Turbo",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/used/629f34a577ee.html",
       "source_url": "https://www.sphyundai.com/vehicles/2023/kia/seltos/sherwood-park/ab/70969616/?sale_class=used",
       "dealer_url": "https://www.sphyundai.com/vehicles/2023/kia/seltos/sherwood-park/ab/70969616/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-01T18:17:01",
+      "last_verified": "2026-10-06T15:36:08",
       "price": 24907.0,
       "price_currency": "CAD",
       "odometer_km": 40178,
       "year": 2023,
       "make": "Kia",
-      "model": "Seltos SX Turbo",
+      "model": "Seltos",
       "condition": "used"
     },
     {
@@ -1077,16 +1155,17 @@
       "vin": "KNDEUCAAXP7356024",
       "stock": "PC6024",
       "color": "Grey",
+      "trim": "EX",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/used/831822ec6c51.html",
       "source_url": "https://www.sphyundai.com/vehicles/2023/kia/seltos/sherwood-park/ab/71144811/?sale_class=used",
       "dealer_url": "https://www.sphyundai.com/vehicles/2023/kia/seltos/sherwood-park/ab/71144811/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-01T18:17:10",
+      "last_verified": "2026-10-06T15:36:17",
       "price": 23907.0,
       "price_currency": "CAD",
       "odometer_km": 48101,
       "year": 2023,
       "make": "Kia",
-      "model": "Seltos EX",
+      "model": "Seltos",
       "condition": "used"
     },
     {
@@ -1094,6 +1173,7 @@
       "vin": "5XYP5DGC8PG335731",
       "stock": "P35731",
       "color": "Green",
+      "trim": "X-Line",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/used/5ce14a4ecfea.html",
       "source_url": "https://www.sphyundai.com/vehicles/2023/kia/telluride/sherwood-park/ab/69128585/?sale_class=used",
       "dealer_url": "https://www.sphyundai.com/vehicles/2023/kia/telluride/sherwood-park/ab/69128585/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1103,7 +1183,7 @@
       "odometer_km": 83490,
       "year": 2023,
       "make": "Kia",
-      "model": "Telluride X-Line",
+      "model": "Telluride",
       "condition": "used"
     },
     {
@@ -1111,6 +1191,7 @@
       "vin": "5XYP5DGC6PG372910",
       "stock": "P2940",
       "color": "Grey",
+      "trim": "X-Pro",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/used/90cc7c4a0144.html",
       "source_url": "https://www.sphyundai.com/vehicles/2023/kia/telluride/sherwood-park/ab/70145996/?sale_class=used",
       "dealer_url": "https://www.sphyundai.com/vehicles/2023/kia/telluride/sherwood-park/ab/70145996/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1120,7 +1201,7 @@
       "odometer_km": 56862,
       "year": 2023,
       "make": "Kia",
-      "model": "Telluride X-Pro",
+      "model": "Telluride",
       "condition": "used"
     },
     {
@@ -1128,6 +1209,7 @@
       "vin": "1C6RR7FT1PS575933",
       "stock": "P5933",
       "color": "Silver",
+      "trim": "Tradesman",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/used/ce3681e7fb44.html",
       "source_url": "https://www.sphyundai.com/vehicles/2023/ram/1500/sherwood-park/ab/70367297/?sale_class=used",
       "dealer_url": "https://www.sphyundai.com/vehicles/2023/ram/1500/sherwood-park/ab/70367297/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1137,7 +1219,7 @@
       "odometer_km": 99383,
       "year": 2023,
       "make": "RAM",
-      "model": "1500 Tradesman",
+      "model": "1500",
       "condition": "used"
     },
     {
@@ -1145,6 +1227,7 @@
       "vin": "JTEAAAAHXPJ120187",
       "stock": "PC0187",
       "color": "Black",
+      "trim": "LE",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/used/51c6a45978d9.html",
       "source_url": "https://www.sphyundai.com/vehicles/2023/toyota/venza/sherwood-park/ab/71295125/?sale_class=used",
       "dealer_url": "https://www.sphyundai.com/vehicles/2023/toyota/venza/sherwood-park/ab/71295125/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1154,7 +1237,7 @@
       "odometer_km": 112676,
       "year": 2023,
       "make": "Toyota",
-      "model": "Venza LE",
+      "model": "Venza",
       "condition": "used"
     },
     {
@@ -1162,6 +1245,7 @@
       "vin": "LYVH60DX8PB229886",
       "stock": "P9886",
       "color": "Black",
+      "trim": "Recharge Ultimate Dark",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/used/b8a775a72636.html",
       "source_url": "https://www.sphyundai.com/vehicles/2023/volvo/xc60-recharge/sherwood-park/ab/69597957/?sale_class=used",
       "dealer_url": "https://www.sphyundai.com/vehicles/2023/volvo/xc60-recharge/sherwood-park/ab/69597957/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1171,7 +1255,7 @@
       "odometer_km": 56236,
       "year": 2023,
       "make": "Volvo",
-      "model": "XC60 Recharge Ultimate Dark",
+      "model": "XC60",
       "condition": "used"
     },
     {
@@ -1179,6 +1263,7 @@
       "vin": "LYV062RN1PB195631",
       "stock": "P95631",
       "color": "Blue",
+      "trim": "Plus Bright Theme",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/used/bb9bbab5c47a.html",
       "source_url": "https://www.sphyundai.com/vehicles/2023/volvo/xc60/sherwood-park/ab/70147801/?sale_class=used",
       "dealer_url": "https://www.sphyundai.com/vehicles/2023/volvo/xc60/sherwood-park/ab/70147801/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1188,7 +1273,7 @@
       "odometer_km": 76752,
       "year": 2023,
       "make": "Volvo",
-      "model": "XC60 Plus Bright Theme",
+      "model": "XC60",
       "condition": "used"
     },
     {
@@ -1196,6 +1281,7 @@
       "vin": "LYV062RN8PB355200",
       "stock": "PC5200",
       "color": "Blue",
+      "trim": "+Bright Theme",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/used/7f2fef59210a.html",
       "source_url": "https://www.sphyundai.com/vehicles/2023/volvo/xc60/sherwood-park/ab/70756924/?sale_class=used",
       "dealer_url": "https://www.sphyundai.com/vehicles/2023/volvo/xc60/sherwood-park/ab/70756924/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1205,7 +1291,7 @@
       "odometer_km": 97089,
       "year": 2023,
       "make": "Volvo",
-      "model": "XC60 +Bright Theme",
+      "model": "XC60",
       "condition": "used"
     },
     {
@@ -1213,6 +1299,7 @@
       "vin": "2HGFE1E52RH081003",
       "stock": "26SF297",
       "color": "Red",
+      "trim": "Si",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/used/1de968dc7f74.html",
       "source_url": "https://www.sphyundai.com/vehicles/2024/honda/civic-si-sedan/sherwood-park/ab/71326977/?sale_class=used",
       "dealer_url": "https://www.sphyundai.com/vehicles/2024/honda/civic-si-sedan/sherwood-park/ab/71326977/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1222,7 +1309,7 @@
       "odometer_km": 65655,
       "year": 2024,
       "make": "Honda",
-      "model": "Civic Si Sedan",
+      "model": "Civic",
       "condition": "used"
     },
     {
@@ -1230,6 +1317,7 @@
       "vin": "KMHLM4DG7RU724267",
       "stock": "26EL602",
       "color": "Grey",
+      "trim": "Preferred Tech",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/used/44b8d2496395.html",
       "source_url": "https://www.sphyundai.com/vehicles/2024/hyundai/elantra/sherwood-park/ab/70859633/?sale_class=used",
       "dealer_url": "https://www.sphyundai.com/vehicles/2024/hyundai/elantra/sherwood-park/ab/70859633/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1239,7 +1327,7 @@
       "odometer_km": 110004,
       "year": 2024,
       "make": "Hyundai",
-      "model": "Elantra Preferred Tech",
+      "model": "Elantra",
       "condition": "used"
     },
     {
@@ -1247,6 +1335,7 @@
       "vin": "5NTJEDDF7RH122254",
       "stock": "26TU970",
       "color": "Blue",
+      "trim": "Ultimate",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/used/76b8aae2e9a7.html",
       "source_url": "https://www.sphyundai.com/vehicles/2024/hyundai/santa-cruz/sherwood-park/ab/71303714/?sale_class=used",
       "dealer_url": "https://www.sphyundai.com/vehicles/2024/hyundai/santa-cruz/sherwood-park/ab/71303714/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1256,7 +1345,7 @@
       "odometer_km": 47692,
       "year": 2024,
       "make": "Hyundai",
-      "model": "Santa Cruz Ultimate",
+      "model": "Santa Cruz",
       "condition": "used"
     },
     {
@@ -1264,6 +1353,7 @@
       "vin": "5NMP5DGL4RH024144",
       "stock": "P24144",
       "color": "White",
+      "trim": "Ultimate",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/used/75b94a071e0b.html",
       "source_url": "https://www.sphyundai.com/vehicles/2024/hyundai/santa-fe/sherwood-park/ab/70295400/?sale_class=used",
       "dealer_url": "https://www.sphyundai.com/vehicles/2024/hyundai/santa-fe/sherwood-park/ab/70295400/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1273,7 +1363,7 @@
       "odometer_km": 21089,
       "year": 2024,
       "make": "Hyundai",
-      "model": "Santa Fe Ultimate",
+      "model": "Santa Fe",
       "condition": "used"
     },
     {
@@ -1281,6 +1371,7 @@
       "vin": "KM8JCCD14RU227760",
       "stock": "26EL298",
       "color": "Grey",
+      "trim": "N-Line",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/used/960700734e96.html",
       "source_url": "https://www.sphyundai.com/vehicles/2024/hyundai/tucson-hybrid/sherwood-park/ab/70918829/?sale_class=used",
       "dealer_url": "https://www.sphyundai.com/vehicles/2024/hyundai/tucson-hybrid/sherwood-park/ab/70918829/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1290,13 +1381,14 @@
       "odometer_km": 37970,
       "year": 2024,
       "make": "Hyundai",
-      "model": "Tucson Hybrid N-Line",
+      "model": "Tucson Hybrid",
       "condition": "used"
     },
     {
       "name": "2024 Mitsubishi Outlander ES | Front Collision Warning | Adaptive Cruise",
       "vin": "JA4J4UA8XRZ623956",
       "stock": "PC3956",
+      "trim": "ES",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/used/b6ae9f64c1ea.html",
       "source_url": "https://www.sphyundai.com/vehicles/2024/mitsubishi/outlander/sherwood-park/ab/71317383/?sale_class=used",
       "dealer_url": "https://www.sphyundai.com/vehicles/2024/mitsubishi/outlander/sherwood-park/ab/71317383/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1306,7 +1398,7 @@
       "odometer_km": 33535,
       "year": 2024,
       "make": "Mitsubishi",
-      "model": "Outlander ES",
+      "model": "Outlander",
       "condition": "used"
     },
     {
@@ -1314,6 +1406,7 @@
       "vin": "1V2AR2CA1RC595641",
       "stock": "P5641",
       "color": "Grey",
+      "trim": "Peak Edition",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/used/00ed42eff6da.html",
       "source_url": "https://www.sphyundai.com/vehicles/2024/volkswagen/atlas/sherwood-park/ab/70810333/?sale_class=used",
       "dealer_url": "https://www.sphyundai.com/vehicles/2024/volkswagen/atlas/sherwood-park/ab/70810333/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1323,7 +1416,7 @@
       "odometer_km": 84196,
       "year": 2024,
       "make": "Volkswagen",
-      "model": "Atlas Peak Edition",
+      "model": "Atlas",
       "condition": "used"
     },
     {
@@ -1331,6 +1424,7 @@
       "vin": "YV4062PK6R1152659",
       "stock": "P2659",
       "color": "Black",
+      "trim": "Core Bright",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/used/1ed1cdc7fbe4.html",
       "source_url": "https://www.sphyundai.com/vehicles/2024/volvo/xc90/sherwood-park/ab/69128601/?sale_class=used",
       "dealer_url": "https://www.sphyundai.com/vehicles/2024/volvo/xc90/sherwood-park/ab/69128601/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1340,7 +1434,43 @@
       "odometer_km": 70064,
       "year": 2024,
       "make": "Volvo",
-      "model": "XC90 Core Bright",
+      "model": "XC90",
+      "condition": "used"
+    },
+    {
+      "name": "2024 Volvo XC90 Ultimate Bright | Traffic Sign Recognition | HUD",
+      "vin": "YV4062PF0R1173249",
+      "stock": "PC3249",
+      "color": "Grey",
+      "trim": "Ultimate Bright",
+      "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/used/5d5a4f2ccdd4.html",
+      "source_url": "https://www.sphyundai.com/vehicles/2024/volvo/xc90/sherwood-park/ab/70536367/?sale_class=used",
+      "dealer_url": "https://www.sphyundai.com/vehicles/2024/volvo/xc90/sherwood-park/ab/70536367/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-06T15:33:08",
+      "price": 54388.0,
+      "price_currency": "CAD",
+      "odometer_km": 39256,
+      "year": 2024,
+      "make": "Volvo",
+      "model": "XC90",
+      "condition": "used"
+    },
+    {
+      "name": "2025 GMC Yukon Denali | HUD | Heated F&R Seats | Panoroof",
+      "vin": "1GKS2DRL7SR118282",
+      "stock": "P8282",
+      "color": "Black",
+      "trim": "Denali",
+      "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/used/0e7c82cd78bb.html",
+      "source_url": "https://www.sphyundai.com/vehicles/2025/gmc/yukon/sherwood-park/ab/71457636/?sale_class=used",
+      "dealer_url": "https://www.sphyundai.com/vehicles/2025/gmc/yukon/sherwood-park/ab/71457636/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-06T15:33:18",
+      "price": 92107.0,
+      "price_currency": "CAD",
+      "odometer_km": 49179,
+      "year": 2025,
+      "make": "GMC",
+      "model": "Yukon",
       "condition": "used"
     },
     {
@@ -1348,6 +1478,7 @@
       "vin": "KMHLM4DG9SU886049",
       "stock": "26KN062",
       "color": "White",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/used/d019931bdf65.html",
       "source_url": "https://www.sphyundai.com/vehicles/2025/hyundai/elantra/sherwood-park/ab/69773728/?sale_class=used",
       "dealer_url": "https://www.sphyundai.com/vehicles/2025/hyundai/elantra/sherwood-park/ab/69773728/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1357,7 +1488,7 @@
       "odometer_km": 42588,
       "year": 2025,
       "make": "Hyundai",
-      "model": "Elantra Preferred",
+      "model": "Elantra",
       "condition": "used"
     },
     {
@@ -1365,6 +1496,7 @@
       "vin": "KM8HC3A6XSU027955",
       "stock": "PP25KN7",
       "color": "Black",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/used/6331b9d13f73.html",
       "source_url": "https://www.sphyundai.com/vehicles/2025/hyundai/kona-electric/sherwood-park/ab/65659080/?sale_class=used",
       "dealer_url": "https://www.sphyundai.com/vehicles/2025/hyundai/kona-electric/sherwood-park/ab/65659080/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1374,7 +1506,7 @@
       "odometer_km": 108,
       "year": 2025,
       "make": "Hyundai",
-      "model": "Kona Electric Preferred FWD",
+      "model": "Kona Electric",
       "condition": "used"
     },
     {
@@ -1382,6 +1514,7 @@
       "vin": "KM8HD3A65SU032834",
       "stock": "PP25KN2",
       "color": "Black",
+      "trim": "Preferred Trend",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/used/6420e75dfb8c.html",
       "source_url": "https://www.sphyundai.com/vehicles/2025/hyundai/kona-electric/sherwood-park/ab/67401889/?sale_class=used",
       "dealer_url": "https://www.sphyundai.com/vehicles/2025/hyundai/kona-electric/sherwood-park/ab/67401889/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1391,7 +1524,7 @@
       "odometer_km": 126,
       "year": 2025,
       "make": "Hyundai",
-      "model": "Kona Electric Preferred Trend FWD",
+      "model": "Kona Electric",
       "condition": "used"
     },
     {
@@ -1399,6 +1532,7 @@
       "vin": "KM8HACA32SU303430",
       "stock": "P3430",
       "color": "Black",
+      "trim": "N Line",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/used/3d6eca153c35.html",
       "source_url": "https://www.sphyundai.com/vehicles/2025/hyundai/kona/sherwood-park/ab/70179071/?sale_class=used",
       "dealer_url": "https://www.sphyundai.com/vehicles/2025/hyundai/kona/sherwood-park/ab/70179071/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1408,7 +1542,23 @@
       "odometer_km": 16711,
       "year": 2025,
       "make": "Hyundai",
-      "model": "Kona N Line",
+      "model": "Kona",
+      "condition": "used"
+    },
+    {
+      "name": "2025 Hyundai Kona Preferred | Adaptive Cruise | Heated Seats & Wheel",
+      "vin": "KM8HBCAB5SU254664",
+      "stock": "27KN967",
+      "color": "White",
+      "trim": "Preferred",
+      "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/used/f463fafd0b05.html",
+      "source_url": "https://www.sphyundai.com/vehicles/2025/hyundai/kona/sherwood-park/ab/ad13141561/?sale_class=used",
+      "dealer_url": "https://www.sphyundai.com/vehicles/2025/hyundai/kona/sherwood-park/ab/ad13141561/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-06T15:33:27",
+      "odometer_km": 53062,
+      "year": 2025,
+      "make": "Hyundai",
+      "model": "Kona",
       "condition": "used"
     },
     {
@@ -1416,6 +1566,7 @@
       "vin": "KM8JCDD11SU253938",
       "stock": "26SF186",
       "color": "Grey",
+      "trim": "Ultimate",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/used/1d4be9967668.html",
       "source_url": "https://www.sphyundai.com/vehicles/2025/hyundai/tucson-hybrid/sherwood-park/ab/70724346/?sale_class=used",
       "dealer_url": "https://www.sphyundai.com/vehicles/2025/hyundai/tucson-hybrid/sherwood-park/ab/70724346/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1425,7 +1576,25 @@
       "odometer_km": 84900,
       "year": 2025,
       "make": "Hyundai",
-      "model": "Tucson Hybrid Ultimate",
+      "model": "Tucson Hybrid",
+      "condition": "used"
+    },
+    {
+      "name": "2025 Hyundai Tucson Hybrid Ultimate | Lane Depart Warning | Heated Seat | HUD",
+      "vin": "KM8JCDD11SU321672",
+      "stock": "26EL811",
+      "color": "Black",
+      "trim": "Ultimate",
+      "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/used/421f9f9db8c7.html",
+      "source_url": "https://www.sphyundai.com/vehicles/2025/hyundai/tucson-hybrid/sherwood-park/ab/71485204/?sale_class=used",
+      "dealer_url": "https://www.sphyundai.com/vehicles/2025/hyundai/tucson-hybrid/sherwood-park/ab/71485204/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-06T15:33:36",
+      "price": 39907.0,
+      "price_currency": "CAD",
+      "odometer_km": 38903,
+      "year": 2025,
+      "make": "Hyundai",
+      "model": "Tucson Hybrid",
       "condition": "used"
     },
     {
@@ -1433,6 +1602,7 @@
       "vin": "KNDEP2AA6S7684633",
       "stock": "P84633",
       "color": "Black",
+      "trim": "LX",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/used/621bd82448e8.html",
       "source_url": "https://www.sphyundai.com/vehicles/2025/kia/seltos/sherwood-park/ab/70367294/?sale_class=used",
       "dealer_url": "https://www.sphyundai.com/vehicles/2025/kia/seltos/sherwood-park/ab/70367294/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1442,7 +1612,25 @@
       "odometer_km": 69272,
       "year": 2025,
       "make": "Kia",
-      "model": "Seltos LX",
+      "model": "Seltos",
+      "condition": "used"
+    },
+    {
+      "name": "2025 Lincoln Aviator Reserve | HUD | Massage Seats | Panoroof",
+      "vin": "5LM5J7XC2SGL13209",
+      "stock": "P3209",
+      "color": "White",
+      "trim": "Reserve",
+      "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/used/88247141ceb6.html",
+      "source_url": "https://www.sphyundai.com/vehicles/2025/lincoln/aviator/sherwood-park/ab/ad13123062/?sale_class=used",
+      "dealer_url": "https://www.sphyundai.com/vehicles/2025/lincoln/aviator/sherwood-park/ab/ad13123062/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-06T15:33:44",
+      "price": 81595.0,
+      "price_currency": "CAD",
+      "odometer_km": 41181,
+      "year": 2025,
+      "make": "Lincoln",
+      "model": "Aviator",
       "condition": "used"
     },
     {
@@ -1450,6 +1638,7 @@
       "vin": "1V2FE2CAXSC218944",
       "stock": "P8944",
       "color": "Blue",
+      "trim": "Execline",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/used/632b3798507f.html",
       "source_url": "https://www.sphyundai.com/vehicles/2025/volkswagen/atlas-cross-sport/sherwood-park/ab/70810335/?sale_class=used",
       "dealer_url": "https://www.sphyundai.com/vehicles/2025/volkswagen/atlas-cross-sport/sherwood-park/ab/70810335/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1459,7 +1648,25 @@
       "odometer_km": 16405,
       "year": 2025,
       "make": "Volkswagen",
-      "model": "Atlas Cross Sport Execline",
+      "model": "Atlas Cross Sport",
+      "condition": "used"
+    },
+    {
+      "name": "2026 Genesis GV70 2.5T Advanced | Panoroof | Heated Seats & Wheel",
+      "vin": "KMUMADTB0TU264901",
+      "stock": "PC4901",
+      "color": "Black",
+      "trim": "2.5T Advanced",
+      "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/used/f846c48fec87.html",
+      "source_url": "https://www.sphyundai.com/vehicles/2026/genesis/gv70/sherwood-park/ab/71305325/?sale_class=used",
+      "dealer_url": "https://www.sphyundai.com/vehicles/2026/genesis/gv70/sherwood-park/ab/71305325/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-06T15:33:55",
+      "price": 54907.0,
+      "price_currency": "CAD",
+      "odometer_km": 28612,
+      "year": 2026,
+      "make": "Genesis",
+      "model": "GV70",
       "condition": "used"
     },
     {
@@ -1467,6 +1674,7 @@
       "vin": "KM8HCCAB6TU387819",
       "stock": "PC7819",
       "color": "Grey",
+      "trim": "Preferred Trend",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/used/c5f679ac1c4f.html",
       "source_url": "https://www.sphyundai.com/vehicles/2026/hyundai/kona/sherwood-park/ab/70769513/?sale_class=used",
       "dealer_url": "https://www.sphyundai.com/vehicles/2026/hyundai/kona/sherwood-park/ab/70769513/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1476,7 +1684,7 @@
       "odometer_km": 35268,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Kona Preferred Trend",
+      "model": "Kona",
       "condition": "used"
     },
     {
@@ -1484,6 +1692,7 @@
       "vin": "KM8HCCAB8TU388776",
       "stock": "PC8776",
       "color": "Black",
+      "trim": "Preferred Trend",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/used/f5dc72ef4295.html",
       "source_url": "https://www.sphyundai.com/vehicles/2026/hyundai/kona/sherwood-park/ab/70769515/?sale_class=used",
       "dealer_url": "https://www.sphyundai.com/vehicles/2026/hyundai/kona/sherwood-park/ab/70769515/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1493,7 +1702,7 @@
       "odometer_km": 13995,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Kona Preferred Trend",
+      "model": "Kona",
       "condition": "used"
     },
     {
@@ -1501,6 +1710,7 @@
       "vin": "KM8HCCAB5TU388783",
       "stock": "PC8783",
       "color": "Black",
+      "trim": "Preferred Trend",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/used/0f95d041ac2a.html",
       "source_url": "https://www.sphyundai.com/vehicles/2026/hyundai/kona/sherwood-park/ab/70769516/?sale_class=used",
       "dealer_url": "https://www.sphyundai.com/vehicles/2026/hyundai/kona/sherwood-park/ab/70769516/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1510,7 +1720,7 @@
       "odometer_km": 24451,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Kona Preferred Trend",
+      "model": "Kona",
       "condition": "used"
     },
     {
@@ -1518,6 +1728,7 @@
       "vin": "KM8HCCAB2TU396839",
       "stock": "PC6839",
       "color": "White",
+      "trim": "Preferred Trend",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/used/46a0e9a0320d.html",
       "source_url": "https://www.sphyundai.com/vehicles/2026/hyundai/kona/sherwood-park/ab/70769521/?sale_class=used",
       "dealer_url": "https://www.sphyundai.com/vehicles/2026/hyundai/kona/sherwood-park/ab/70769521/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1527,7 +1738,7 @@
       "odometer_km": 23519,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Kona Preferred Trend",
+      "model": "Kona",
       "condition": "used"
     },
     {
@@ -1535,6 +1746,7 @@
       "vin": "KMHLN4DJ4TU190175",
       "stock": "26EL017",
       "color": "Grey",
+      "trim": "Luxury",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/new/3cd883287cd4.html",
       "source_url": "https://www.sphyundai.com/vehicles/2026/hyundai/elantra-hybrid/sherwood-park/ab/68819695/?sale_class=new",
       "dealer_url": "https://www.sphyundai.com/vehicles/2026/hyundai/elantra-hybrid/sherwood-park/ab/68819695/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1544,7 +1756,7 @@
       "odometer_km": 66,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra Hybrid Luxury",
+      "model": "Elantra Hybrid",
       "condition": "new"
     },
     {
@@ -1552,6 +1764,7 @@
       "vin": "KMHLN4DJ7TU205901",
       "stock": "26EL590",
       "color": "White",
+      "trim": "Luxury",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/new/fe69c7067472.html",
       "source_url": "https://www.sphyundai.com/vehicles/2026/hyundai/elantra-hybrid/sherwood-park/ab/69781149/?sale_class=new",
       "dealer_url": "https://www.sphyundai.com/vehicles/2026/hyundai/elantra-hybrid/sherwood-park/ab/69781149/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1561,7 +1774,7 @@
       "odometer_km": 30,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra Hybrid Luxury",
+      "model": "Elantra Hybrid",
       "condition": "new"
     },
     {
@@ -1569,6 +1782,7 @@
       "vin": "KMHLN4DJ8TU205857",
       "stock": "26EL585",
       "color": "Grey",
+      "trim": "Luxury",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/new/f1d4264df2a1.html",
       "source_url": "https://www.sphyundai.com/vehicles/2026/hyundai/elantra-hybrid/sherwood-park/ab/69781168/?sale_class=new",
       "dealer_url": "https://www.sphyundai.com/vehicles/2026/hyundai/elantra-hybrid/sherwood-park/ab/69781168/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1578,7 +1792,7 @@
       "odometer_km": 16,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra Hybrid Luxury",
+      "model": "Elantra Hybrid",
       "condition": "new"
     },
     {
@@ -1586,6 +1800,7 @@
       "vin": "KMHLN4DJ4TU208769",
       "stock": "26EL876",
       "color": "Blue",
+      "trim": "Luxury",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/new/cdaabfa2b482.html",
       "source_url": "https://www.sphyundai.com/vehicles/2026/hyundai/elantra-hybrid/sherwood-park/ab/70083031/?sale_class=new",
       "dealer_url": "https://www.sphyundai.com/vehicles/2026/hyundai/elantra-hybrid/sherwood-park/ab/70083031/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1595,7 +1810,7 @@
       "odometer_km": 16,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra Hybrid Luxury",
+      "model": "Elantra Hybrid",
       "condition": "new"
     },
     {
@@ -1603,6 +1818,7 @@
       "vin": "KMHLN4DJ8TU208161",
       "stock": "26EL816",
       "color": "Blue",
+      "trim": "Luxury",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/new/682e4a20466c.html",
       "source_url": "https://www.sphyundai.com/vehicles/2026/hyundai/elantra-hybrid/sherwood-park/ab/70083049/?sale_class=new",
       "dealer_url": "https://www.sphyundai.com/vehicles/2026/hyundai/elantra-hybrid/sherwood-park/ab/70083049/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1612,7 +1828,7 @@
       "odometer_km": 18,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra Hybrid Luxury",
+      "model": "Elantra Hybrid",
       "condition": "new"
     },
     {
@@ -1620,6 +1836,7 @@
       "vin": "KMHLN4DJXTU216357",
       "stock": "26EL635",
       "color": "Grey",
+      "trim": "Luxury",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/new/6d8bb9f24125.html",
       "source_url": "https://www.sphyundai.com/vehicles/2026/hyundai/elantra-hybrid/sherwood-park/ab/70588336/?sale_class=new",
       "dealer_url": "https://www.sphyundai.com/vehicles/2026/hyundai/elantra-hybrid/sherwood-park/ab/70588336/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1629,7 +1846,7 @@
       "odometer_km": 15,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra Hybrid Luxury",
+      "model": "Elantra Hybrid",
       "condition": "new"
     },
     {
@@ -1637,6 +1854,7 @@
       "vin": "KMHLN4DJ6TU217702",
       "stock": "26EL770",
       "color": "Grey",
+      "trim": "Luxury",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/new/0b26e024fc48.html",
       "source_url": "https://www.sphyundai.com/vehicles/2026/hyundai/elantra-hybrid/sherwood-park/ab/70588345/?sale_class=new",
       "dealer_url": "https://www.sphyundai.com/vehicles/2026/hyundai/elantra-hybrid/sherwood-park/ab/70588345/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1646,7 +1864,7 @@
       "odometer_km": 16,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra Hybrid Luxury",
+      "model": "Elantra Hybrid",
       "condition": "new"
     },
     {
@@ -1654,6 +1872,7 @@
       "vin": "KMHLW4DK5TU037035",
       "stock": "26EL703",
       "color": "Black",
+      "trim": "N Manual",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/new/d7d3ac2dd832.html",
       "source_url": "https://www.sphyundai.com/vehicles/2026/hyundai/elantra-n/sherwood-park/ab/68656270/?sale_class=new",
       "dealer_url": "https://www.sphyundai.com/vehicles/2026/hyundai/elantra-n/sherwood-park/ab/68656270/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1663,7 +1882,7 @@
       "odometer_km": 30,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra N Manual",
+      "model": "Elantra",
       "condition": "new"
     },
     {
@@ -1671,6 +1890,7 @@
       "vin": "KMHLW4DK1TU040286",
       "stock": "26EL028",
       "color": "Black",
+      "trim": "N N-LINE",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/new/ad0b3ad92627.html",
       "source_url": "https://www.sphyundai.com/vehicles/2026/hyundai/elantra-n/sherwood-park/ab/69939131/?sale_class=new",
       "dealer_url": "https://www.sphyundai.com/vehicles/2026/hyundai/elantra-n/sherwood-park/ab/69939131/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1680,7 +1900,7 @@
       "odometer_km": 16,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra N N-LINE",
+      "model": "Elantra",
       "condition": "new"
     },
     {
@@ -1688,6 +1908,7 @@
       "vin": "KMHLR4DF1TU296549",
       "stock": "26EL654",
       "color": "Black",
+      "trim": "N N Line Ultimate",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/new/ab08b390cc3e.html",
       "source_url": "https://www.sphyundai.com/vehicles/2026/hyundai/elantra-n/sherwood-park/ab/71148701/?sale_class=new",
       "dealer_url": "https://www.sphyundai.com/vehicles/2026/hyundai/elantra-n/sherwood-park/ab/71148701/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1697,7 +1918,7 @@
       "odometer_km": 16,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra N N Line Ultimate",
+      "model": "Elantra",
       "condition": "new"
     },
     {
@@ -1705,6 +1926,7 @@
       "vin": "KMHLM4DG6TU134522",
       "stock": "26EL452",
       "color": "White",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/new/244a07f9d55a.html",
       "source_url": "https://www.sphyundai.com/vehicles/2026/hyundai/elantra/sherwood-park/ab/68819701/?sale_class=new",
       "dealer_url": "https://www.sphyundai.com/vehicles/2026/hyundai/elantra/sherwood-park/ab/68819701/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1714,7 +1936,7 @@
       "odometer_km": 30,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra Preferred",
+      "model": "Elantra",
       "condition": "new"
     },
     {
@@ -1722,6 +1944,7 @@
       "vin": "KMHLM4DGXTU137939",
       "stock": "26EL793",
       "color": "White",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/new/9089baee98ac.html",
       "source_url": "https://www.sphyundai.com/vehicles/2026/hyundai/elantra/sherwood-park/ab/68819705/?sale_class=new",
       "dealer_url": "https://www.sphyundai.com/vehicles/2026/hyundai/elantra/sherwood-park/ab/68819705/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1731,7 +1954,7 @@
       "odometer_km": 25,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra Preferred",
+      "model": "Elantra",
       "condition": "new"
     },
     {
@@ -1739,6 +1962,7 @@
       "vin": "KMHLM4DG2TU188111",
       "stock": "26EL811",
       "color": "Blue",
+      "trim": "Preferred Tech",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/new/f1d3ed88d78e.html",
       "source_url": "https://www.sphyundai.com/vehicles/2026/hyundai/elantra/sherwood-park/ab/69350990/?sale_class=new",
       "dealer_url": "https://www.sphyundai.com/vehicles/2026/hyundai/elantra/sherwood-park/ab/69350990/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1748,7 +1972,7 @@
       "odometer_km": 30,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra Preferred Tech",
+      "model": "Elantra",
       "condition": "new"
     },
     {
@@ -1756,6 +1980,7 @@
       "vin": "KMHLM4DG3TU198243",
       "stock": "26EL824",
       "color": "Grey",
+      "trim": "Preferred Tech",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/new/e6c10917ca23.html",
       "source_url": "https://www.sphyundai.com/vehicles/2026/hyundai/elantra/sherwood-park/ab/69781144/?sale_class=new",
       "dealer_url": "https://www.sphyundai.com/vehicles/2026/hyundai/elantra/sherwood-park/ab/69781144/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1765,7 +1990,7 @@
       "odometer_km": 312,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra Preferred Tech",
+      "model": "Elantra",
       "condition": "new"
     },
     {
@@ -1773,6 +1998,7 @@
       "vin": "KMHLM4DG0TU198135",
       "stock": "26EL813",
       "color": "Grey",
+      "trim": "Preferred Tech",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/new/f2b3f0bba1e8.html",
       "source_url": "https://www.sphyundai.com/vehicles/2026/hyundai/elantra/sherwood-park/ab/69790605/?sale_class=new",
       "dealer_url": "https://www.sphyundai.com/vehicles/2026/hyundai/elantra/sherwood-park/ab/69790605/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1782,7 +2008,7 @@
       "odometer_km": 17,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra Preferred Tech",
+      "model": "Elantra",
       "condition": "new"
     },
     {
@@ -1790,6 +2016,7 @@
       "vin": "KMHLM4DG8TU225985",
       "stock": "26EL598",
       "color": "White",
+      "trim": "Essential",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/new/ef6b07fb8858.html",
       "source_url": "https://www.sphyundai.com/vehicles/2026/hyundai/elantra/sherwood-park/ab/69939121/?sale_class=new",
       "dealer_url": "https://www.sphyundai.com/vehicles/2026/hyundai/elantra/sherwood-park/ab/69939121/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1799,7 +2026,7 @@
       "odometer_km": 16,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra Essential",
+      "model": "Elantra",
       "condition": "new"
     },
     {
@@ -1807,6 +2034,7 @@
       "vin": "KMHLM4DG5TU244610",
       "stock": "26EL461",
       "color": "Blue",
+      "trim": "Preferred Tech",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/new/f8ac9b39ad31.html",
       "source_url": "https://www.sphyundai.com/vehicles/2026/hyundai/elantra/sherwood-park/ab/70308737/?sale_class=new",
       "dealer_url": "https://www.sphyundai.com/vehicles/2026/hyundai/elantra/sherwood-park/ab/70308737/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1816,7 +2044,7 @@
       "odometer_km": 26,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra Preferred Tech",
+      "model": "Elantra",
       "condition": "new"
     },
     {
@@ -1824,6 +2052,7 @@
       "vin": "KMHLM4DG0TU243848",
       "stock": "26EL384",
       "color": "Grey",
+      "trim": "Preferred Tech",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/new/feff947500d5.html",
       "source_url": "https://www.sphyundai.com/vehicles/2026/hyundai/elantra/sherwood-park/ab/70308742/?sale_class=new",
       "dealer_url": "https://www.sphyundai.com/vehicles/2026/hyundai/elantra/sherwood-park/ab/70308742/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1833,7 +2062,7 @@
       "odometer_km": 16,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra Preferred Tech",
+      "model": "Elantra",
       "condition": "new"
     },
     {
@@ -1841,6 +2070,7 @@
       "vin": "KMHLN4DG3TU257658",
       "stock": "26EL765",
       "color": "Black",
+      "trim": "Luxury",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/new/b0c2b198e1ab.html",
       "source_url": "https://www.sphyundai.com/vehicles/2026/hyundai/elantra/sherwood-park/ab/70588344/?sale_class=new",
       "dealer_url": "https://www.sphyundai.com/vehicles/2026/hyundai/elantra/sherwood-park/ab/70588344/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1850,7 +2080,7 @@
       "odometer_km": 17,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra Luxury",
+      "model": "Elantra",
       "condition": "new"
     },
     {
@@ -1858,6 +2088,7 @@
       "vin": "KMHLN4DG8TU275699",
       "stock": "26EL569",
       "color": "Black",
+      "trim": "Luxury",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/new/fc4cd40ac33c.html",
       "source_url": "https://www.sphyundai.com/vehicles/2026/hyundai/elantra/sherwood-park/ab/70790796/?sale_class=new",
       "dealer_url": "https://www.sphyundai.com/vehicles/2026/hyundai/elantra/sherwood-park/ab/70790796/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1867,7 +2098,7 @@
       "odometer_km": 16,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra Luxury",
+      "model": "Elantra",
       "condition": "new"
     },
     {
@@ -1875,6 +2106,7 @@
       "vin": "KMHLN4DG0TU275695",
       "stock": "26EL569",
       "color": "Black",
+      "trim": "Luxury",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/new/25b332092dcb.html",
       "source_url": "https://www.sphyundai.com/vehicles/2026/hyundai/elantra/sherwood-park/ab/70790798/?sale_class=new",
       "dealer_url": "https://www.sphyundai.com/vehicles/2026/hyundai/elantra/sherwood-park/ab/70790798/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1884,7 +2116,7 @@
       "odometer_km": 16,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra Luxury",
+      "model": "Elantra",
       "condition": "new"
     },
     {
@@ -1892,6 +2124,7 @@
       "vin": "KMHLN4DG0TU259206",
       "stock": "26EL920",
       "color": "Black",
+      "trim": "Luxury",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/new/cbf81fe37164.html",
       "source_url": "https://www.sphyundai.com/vehicles/2026/hyundai/elantra/sherwood-park/ab/70790800/?sale_class=new",
       "dealer_url": "https://www.sphyundai.com/vehicles/2026/hyundai/elantra/sherwood-park/ab/70790800/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1901,7 +2134,7 @@
       "odometer_km": 27,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra Luxury",
+      "model": "Elantra",
       "condition": "new"
     },
     {
@@ -1909,6 +2142,7 @@
       "vin": "KMHLN4DG0TU258427",
       "stock": "26EL842",
       "color": "Black",
+      "trim": "Luxury",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/new/2b8306c7c67a.html",
       "source_url": "https://www.sphyundai.com/vehicles/2026/hyundai/elantra/sherwood-park/ab/70790801/?sale_class=new",
       "dealer_url": "https://www.sphyundai.com/vehicles/2026/hyundai/elantra/sherwood-park/ab/70790801/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1918,7 +2152,7 @@
       "odometer_km": 26,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra Luxury",
+      "model": "Elantra",
       "condition": "new"
     },
     {
@@ -1926,6 +2160,7 @@
       "vin": "KMHLM4DG1TU275613",
       "stock": "26EL561",
       "color": "White",
+      "trim": "Preferred Tech",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/new/b2be25a572d0.html",
       "source_url": "https://www.sphyundai.com/vehicles/2026/hyundai/elantra/sherwood-park/ab/70846978/?sale_class=new",
       "dealer_url": "https://www.sphyundai.com/vehicles/2026/hyundai/elantra/sherwood-park/ab/70846978/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1935,7 +2170,7 @@
       "odometer_km": 16,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra Preferred Tech",
+      "model": "Elantra",
       "condition": "new"
     },
     {
@@ -1943,6 +2178,7 @@
       "vin": "KMHLM4DG1TU290712",
       "stock": "26EL071",
       "color": "White",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/new/d6fdf865ba7b.html",
       "source_url": "https://www.sphyundai.com/vehicles/2026/hyundai/elantra/sherwood-park/ab/70994138/?sale_class=new",
       "dealer_url": "https://www.sphyundai.com/vehicles/2026/hyundai/elantra/sherwood-park/ab/70994138/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1952,7 +2188,7 @@
       "odometer_km": 16,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra Preferred",
+      "model": "Elantra",
       "condition": "new"
     },
     {
@@ -1960,6 +2196,7 @@
       "vin": "KMHLN4DG3TU218391",
       "stock": "26EL839",
       "color": "Grey",
+      "trim": "Luxury",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/new/fc3de17c4263.html",
       "source_url": "https://www.sphyundai.com/vehicles/2026/hyundai/elantra/sherwood-park/ab/71367202/?sale_class=new",
       "dealer_url": "https://www.sphyundai.com/vehicles/2026/hyundai/elantra/sherwood-park/ab/71367202/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1969,7 +2206,7 @@
       "odometer_km": 48,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra Luxury",
+      "model": "Elantra",
       "condition": "new"
     },
     {
@@ -1977,6 +2214,7 @@
       "vin": "KM8HC3A65TU045636",
       "stock": "26KN563",
       "color": "Black",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/new/9fbaae57b6c8.html",
       "source_url": "https://www.sphyundai.com/vehicles/2026/hyundai/kona-electric/sherwood-park/ab/70849602/?sale_class=new",
       "dealer_url": "https://www.sphyundai.com/vehicles/2026/hyundai/kona-electric/sherwood-park/ab/70849602/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1986,7 +2224,7 @@
       "odometer_km": 16,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Kona Electric Preferred",
+      "model": "Kona Electric",
       "condition": "new"
     },
     {
@@ -1994,6 +2232,7 @@
       "vin": "KM8HD3A60TU046643",
       "stock": "26KN664",
       "color": "Black",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/new/8a747e38b842.html",
       "source_url": "https://www.sphyundai.com/vehicles/2026/hyundai/kona-electric/sherwood-park/ab/70849603/?sale_class=new",
       "dealer_url": "https://www.sphyundai.com/vehicles/2026/hyundai/kona-electric/sherwood-park/ab/70849603/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2003,7 +2242,7 @@
       "odometer_km": 15,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Kona Electric Preferred FWD w/Trend Pkg",
+      "model": "Kona Electric",
       "condition": "new"
     },
     {
@@ -2011,6 +2250,7 @@
       "vin": "KM8HCCAB7TU485869",
       "stock": "26KN586",
       "color": "Grey",
+      "trim": "Preferred Trend",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/new/9c6b09e3c9c8.html",
       "source_url": "https://www.sphyundai.com/vehicles/2026/hyundai/kona/sherwood-park/ab/70083051/?sale_class=new",
       "dealer_url": "https://www.sphyundai.com/vehicles/2026/hyundai/kona/sherwood-park/ab/70083051/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2020,7 +2260,7 @@
       "odometer_km": 30,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Kona Preferred Trend AWD",
+      "model": "Kona",
       "condition": "new"
     },
     {
@@ -2028,6 +2268,7 @@
       "vin": "KM8HACA31TU491102",
       "stock": "26KN110",
       "color": "Black",
+      "trim": "N Line",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/new/ad1431769697.html",
       "source_url": "https://www.sphyundai.com/vehicles/2026/hyundai/kona/sherwood-park/ab/70380443/?sale_class=new",
       "dealer_url": "https://www.sphyundai.com/vehicles/2026/hyundai/kona/sherwood-park/ab/70380443/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2037,7 +2278,7 @@
       "odometer_km": 16,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Kona N Line",
+      "model": "Kona",
       "condition": "new"
     },
     {
@@ -2045,6 +2286,7 @@
       "vin": "KM8HBCAB7TU497796",
       "stock": "26KN779",
       "color": "Grey",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/new/1d06c49dbd04.html",
       "source_url": "https://www.sphyundai.com/vehicles/2026/hyundai/kona/sherwood-park/ab/70380466/?sale_class=new",
       "dealer_url": "https://www.sphyundai.com/vehicles/2026/hyundai/kona/sherwood-park/ab/70380466/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2054,7 +2296,7 @@
       "odometer_km": 18,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Kona Preferred",
+      "model": "Kona",
       "condition": "new"
     },
     {
@@ -2062,6 +2304,7 @@
       "vin": "KM8HBCAB4TU497254",
       "stock": "26KN725",
       "color": "Red",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/new/1d41f8f15e39.html",
       "source_url": "https://www.sphyundai.com/vehicles/2026/hyundai/kona/sherwood-park/ab/70380472/?sale_class=new",
       "dealer_url": "https://www.sphyundai.com/vehicles/2026/hyundai/kona/sherwood-park/ab/70380472/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2071,7 +2314,7 @@
       "odometer_km": 251,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Kona Preferred",
+      "model": "Kona",
       "condition": "new"
     },
     {
@@ -2079,6 +2322,7 @@
       "vin": "KM8HCCAB2TU497668",
       "stock": "26KN766",
       "color": "Red",
+      "trim": "Preferred Trend",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/new/77995a9e833d.html",
       "source_url": "https://www.sphyundai.com/vehicles/2026/hyundai/kona/sherwood-park/ab/70383874/?sale_class=new",
       "dealer_url": "https://www.sphyundai.com/vehicles/2026/hyundai/kona/sherwood-park/ab/70383874/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2088,7 +2332,7 @@
       "odometer_km": 30,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Kona Preferred Trend",
+      "model": "Kona",
       "condition": "new"
     },
     {
@@ -2096,6 +2340,7 @@
       "vin": "KM8P2DG19TU205128",
       "stock": "26SF512",
       "color": "Black",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/new/1aa404841bc8.html",
       "source_url": "https://www.sphyundai.com/vehicles/2026/hyundai/santa-fe-hybrid/sherwood-park/ab/70378219/?sale_class=new",
       "dealer_url": "https://www.sphyundai.com/vehicles/2026/hyundai/santa-fe-hybrid/sherwood-park/ab/70378219/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2105,7 +2350,7 @@
       "odometer_km": 510,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Santa Fe Hybrid Preferred",
+      "model": "Santa Fe Hybrid",
       "condition": "new"
     },
     {
@@ -2113,6 +2358,7 @@
       "vin": "KM8P2DG15TU205014",
       "stock": "26SF501",
       "color": "Black",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/new/8cd92814cdbd.html",
       "source_url": "https://www.sphyundai.com/vehicles/2026/hyundai/santa-fe-hybrid/sherwood-park/ab/70378231/?sale_class=new",
       "dealer_url": "https://www.sphyundai.com/vehicles/2026/hyundai/santa-fe-hybrid/sherwood-park/ab/70378231/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2122,7 +2368,7 @@
       "odometer_km": 620,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Santa Fe Hybrid Preferred",
+      "model": "Santa Fe Hybrid",
       "condition": "new"
     },
     {
@@ -2130,6 +2376,7 @@
       "vin": "KM8P2DG19TU205002",
       "stock": "26SF500",
       "color": "Black",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/new/81963689b423.html",
       "source_url": "https://www.sphyundai.com/vehicles/2026/hyundai/santa-fe-hybrid/sherwood-park/ab/70378234/?sale_class=new",
       "dealer_url": "https://www.sphyundai.com/vehicles/2026/hyundai/santa-fe-hybrid/sherwood-park/ab/70378234/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2139,7 +2386,7 @@
       "odometer_km": 1769,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Santa Fe Hybrid Preferred",
+      "model": "Santa Fe Hybrid",
       "condition": "new"
     },
     {
@@ -2147,6 +2394,7 @@
       "vin": "KMHL34JJ7TA137238",
       "stock": "26SN723",
       "color": "Black",
+      "trim": "Preferred-Trend",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/new/18fb51764443.html",
       "source_url": "https://www.sphyundai.com/vehicles/2026/hyundai/sonata-hybrid/sherwood-park/ab/68027593/?sale_class=new",
       "dealer_url": "https://www.sphyundai.com/vehicles/2026/hyundai/sonata-hybrid/sherwood-park/ab/68027593/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2156,7 +2404,7 @@
       "odometer_km": 22,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Sonata Hybrid Preferred-Trend",
+      "model": "Sonata Hybrid",
       "condition": "new"
     },
     {
@@ -2164,6 +2412,7 @@
       "vin": "KMHL34JJ4TA137357",
       "stock": "26SN735",
       "color": "Grey",
+      "trim": "Preferred-Trend",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/new/d72a911f8011.html",
       "source_url": "https://www.sphyundai.com/vehicles/2026/hyundai/sonata-hybrid/sherwood-park/ab/68027595/?sale_class=new",
       "dealer_url": "https://www.sphyundai.com/vehicles/2026/hyundai/sonata-hybrid/sherwood-park/ab/68027595/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2173,7 +2422,7 @@
       "odometer_km": 668,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Sonata Hybrid Preferred-Trend",
+      "model": "Sonata Hybrid",
       "condition": "new"
     },
     {
@@ -2181,6 +2430,7 @@
       "vin": "KMHL34JJ1TA162460",
       "stock": "26SN246",
       "color": "Black",
+      "trim": "Preferred-Trend",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/new/8a9f3313b265.html",
       "source_url": "https://www.sphyundai.com/vehicles/2026/hyundai/sonata-hybrid/sherwood-park/ab/69615554/?sale_class=new",
       "dealer_url": "https://www.sphyundai.com/vehicles/2026/hyundai/sonata-hybrid/sherwood-park/ab/69615554/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2190,7 +2440,7 @@
       "odometer_km": 4755,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Sonata Hybrid Preferred-Trend",
+      "model": "Sonata Hybrid",
       "condition": "new"
     },
     {
@@ -2198,6 +2448,7 @@
       "vin": "KMHL34JJ8TA177795",
       "stock": "26SN779",
       "color": "Black",
+      "trim": "Preferred-Trend",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/new/df7226ad2c08.html",
       "source_url": "https://www.sphyundai.com/vehicles/2026/hyundai/sonata-hybrid/sherwood-park/ab/70697521/?sale_class=new",
       "dealer_url": "https://www.sphyundai.com/vehicles/2026/hyundai/sonata-hybrid/sherwood-park/ab/70697521/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2207,7 +2458,7 @@
       "odometer_km": 1308,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Sonata Hybrid Preferred-Trend FWD",
+      "model": "Sonata Hybrid",
       "condition": "new"
     },
     {
@@ -2215,6 +2466,7 @@
       "vin": "KMHL34JJ8TA177845",
       "stock": "26SN784",
       "color": "Black",
+      "trim": "Preferred-Trend",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/new/363a4c99e85c.html",
       "source_url": "https://www.sphyundai.com/vehicles/2026/hyundai/sonata-hybrid/sherwood-park/ab/70852045/?sale_class=new",
       "dealer_url": "https://www.sphyundai.com/vehicles/2026/hyundai/sonata-hybrid/sherwood-park/ab/70852045/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2224,7 +2476,7 @@
       "odometer_km": 30,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Sonata Hybrid Preferred-Trend FWD",
+      "model": "Sonata Hybrid",
       "condition": "new"
     },
     {
@@ -2232,6 +2484,7 @@
       "vin": "KMHL34JJ5TA188690",
       "stock": "26SN869",
       "color": "White",
+      "trim": "Preferred-Trend",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/new/ddf863e9a0dc.html",
       "source_url": "https://www.sphyundai.com/vehicles/2026/hyundai/sonata-hybrid/sherwood-park/ab/71190284/?sale_class=new",
       "dealer_url": "https://www.sphyundai.com/vehicles/2026/hyundai/sonata-hybrid/sherwood-park/ab/71190284/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2241,7 +2494,7 @@
       "odometer_km": 16,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Sonata Hybrid Preferred-Trend",
+      "model": "Sonata Hybrid",
       "condition": "new"
     },
     {
@@ -2249,6 +2502,7 @@
       "vin": "KM8JCDD17TU479371",
       "stock": "26TU937",
       "color": "White",
+      "trim": "N-Line",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/new/b72ec2d5f4df.html",
       "source_url": "https://www.sphyundai.com/vehicles/2026/hyundai/tucson-hybrid/sherwood-park/ab/69781138/?sale_class=new",
       "dealer_url": "https://www.sphyundai.com/vehicles/2026/hyundai/tucson-hybrid/sherwood-park/ab/69781138/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2258,7 +2512,7 @@
       "odometer_km": 17,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson Hybrid N-Line",
+      "model": "Tucson Hybrid",
       "condition": "new"
     },
     {
@@ -2266,6 +2520,7 @@
       "vin": "KM8JBDD17TU497971",
       "stock": "26TU797",
       "color": "Black",
+      "trim": "Night Edition",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/new/44df58b9c60e.html",
       "source_url": "https://www.sphyundai.com/vehicles/2026/hyundai/tucson-hybrid/sherwood-park/ab/70083034/?sale_class=new",
       "dealer_url": "https://www.sphyundai.com/vehicles/2026/hyundai/tucson-hybrid/sherwood-park/ab/70083034/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2275,7 +2530,7 @@
       "odometer_km": 30,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson Hybrid Night Edition",
+      "model": "Tucson Hybrid",
       "condition": "new"
     },
     {
@@ -2283,6 +2538,7 @@
       "vin": "KM8JBDD11TU497268",
       "stock": "26TU726",
       "color": "Grey",
+      "trim": "Night Edition",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/new/c7d4b8af92af.html",
       "source_url": "https://www.sphyundai.com/vehicles/2026/hyundai/tucson-hybrid/sherwood-park/ab/70083036/?sale_class=new",
       "dealer_url": "https://www.sphyundai.com/vehicles/2026/hyundai/tucson-hybrid/sherwood-park/ab/70083036/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2292,7 +2548,7 @@
       "odometer_km": 32,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson Hybrid Night Edition",
+      "model": "Tucson Hybrid",
       "condition": "new"
     },
     {
@@ -2300,6 +2556,7 @@
       "vin": "KM8JBDD18TU497977",
       "stock": "26TU797",
       "color": "White",
+      "trim": "Night Edition",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/new/6f9e94505034.html",
       "source_url": "https://www.sphyundai.com/vehicles/2026/hyundai/tucson-hybrid/sherwood-park/ab/70083042/?sale_class=new",
       "dealer_url": "https://www.sphyundai.com/vehicles/2026/hyundai/tucson-hybrid/sherwood-park/ab/70083042/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2309,7 +2566,7 @@
       "odometer_km": 17,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson Hybrid Night Edition",
+      "model": "Tucson Hybrid",
       "condition": "new"
     },
     {
@@ -2317,6 +2574,7 @@
       "vin": "3KMJBCDE2TE031989",
       "stock": "26TU198",
       "color": "Black",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/new/a2ba16b61f0b.html",
       "source_url": "https://www.sphyundai.com/vehicles/2026/hyundai/tucson/sherwood-park/ab/68379119/?sale_class=new",
       "dealer_url": "https://www.sphyundai.com/vehicles/2026/hyundai/tucson/sherwood-park/ab/68379119/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2326,7 +2584,7 @@
       "odometer_km": 7351,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson Preferred AWD",
+      "model": "Tucson",
       "condition": "new"
     },
     {
@@ -2334,6 +2592,7 @@
       "vin": "3KMJBCDE5TE039164",
       "stock": "26TU916",
       "color": "White",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/new/c2acf358b328.html",
       "source_url": "https://www.sphyundai.com/vehicles/2026/hyundai/tucson/sherwood-park/ab/69209321/?sale_class=new",
       "dealer_url": "https://www.sphyundai.com/vehicles/2026/hyundai/tucson/sherwood-park/ab/69209321/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2343,7 +2602,7 @@
       "odometer_km": 763,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson Preferred AWD",
+      "model": "Tucson",
       "condition": "new"
     },
     {
@@ -2351,6 +2610,7 @@
       "vin": "3KMJBCDE5TE039133",
       "stock": "26TU913",
       "color": "White",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/new/b244c1d986f5.html",
       "source_url": "https://www.sphyundai.com/vehicles/2026/hyundai/tucson/sherwood-park/ab/69209333/?sale_class=new",
       "dealer_url": "https://www.sphyundai.com/vehicles/2026/hyundai/tucson/sherwood-park/ab/69209333/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2360,7 +2620,7 @@
       "odometer_km": 64,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson Preferred AWD",
+      "model": "Tucson",
       "condition": "new"
     },
     {
@@ -2368,6 +2628,7 @@
       "vin": "3KMJBCDE2TE039073",
       "stock": "26TU907",
       "color": "Black",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/new/5e4d7bf1c0e7.html",
       "source_url": "https://www.sphyundai.com/vehicles/2026/hyundai/tucson/sherwood-park/ab/69209336/?sale_class=new",
       "dealer_url": "https://www.sphyundai.com/vehicles/2026/hyundai/tucson/sherwood-park/ab/69209336/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2377,7 +2638,7 @@
       "odometer_km": 23,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson Preferred AWD",
+      "model": "Tucson",
       "condition": "new"
     },
     {
@@ -2385,6 +2646,7 @@
       "vin": "3KMJBCDE9TE039118",
       "stock": "26TU911",
       "color": "Black",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/new/d022e86df10d.html",
       "source_url": "https://www.sphyundai.com/vehicles/2026/hyundai/tucson/sherwood-park/ab/69209347/?sale_class=new",
       "dealer_url": "https://www.sphyundai.com/vehicles/2026/hyundai/tucson/sherwood-park/ab/69209347/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2394,7 +2656,7 @@
       "odometer_km": 11010,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson Preferred AWD",
+      "model": "Tucson",
       "condition": "new"
     },
     {
@@ -2402,6 +2664,7 @@
       "vin": "3KMJBCDE9TE039152",
       "stock": "26TU391",
       "color": "Black",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/new/1938282229af.html",
       "source_url": "https://www.sphyundai.com/vehicles/2026/hyundai/tucson/sherwood-park/ab/69209349/?sale_class=new",
       "dealer_url": "https://www.sphyundai.com/vehicles/2026/hyundai/tucson/sherwood-park/ab/69209349/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2411,7 +2674,7 @@
       "odometer_km": 2528,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson Preferred AWD",
+      "model": "Tucson",
       "condition": "new"
     },
     {
@@ -2419,6 +2682,7 @@
       "vin": "3KMJBCDE3TE039079",
       "stock": "26TU907",
       "color": "Black",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/new/27326cc98ef9.html",
       "source_url": "https://www.sphyundai.com/vehicles/2026/hyundai/tucson/sherwood-park/ab/69209353/?sale_class=new",
       "dealer_url": "https://www.sphyundai.com/vehicles/2026/hyundai/tucson/sherwood-park/ab/69209353/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2428,7 +2692,7 @@
       "odometer_km": 24,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson Preferred AWD",
+      "model": "Tucson",
       "condition": "new"
     },
     {
@@ -2436,6 +2700,7 @@
       "vin": "KM8JBCDE9TU472566",
       "stock": "26TU256",
       "color": "Grey",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/new/84a0824a2d8a.html",
       "source_url": "https://www.sphyundai.com/vehicles/2026/hyundai/tucson/sherwood-park/ab/69615543/?sale_class=new",
       "dealer_url": "https://www.sphyundai.com/vehicles/2026/hyundai/tucson/sherwood-park/ab/69615543/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2445,7 +2710,7 @@
       "odometer_km": 20,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson Preferred AWD",
+      "model": "Tucson",
       "condition": "new"
     },
     {
@@ -2453,6 +2718,7 @@
       "vin": "KM8JBCDE2TU486177",
       "stock": "26TU617",
       "color": "Silver",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/new/6e5f7d825235.html",
       "source_url": "https://www.sphyundai.com/vehicles/2026/hyundai/tucson/sherwood-park/ab/70378235/?sale_class=new",
       "dealer_url": "https://www.sphyundai.com/vehicles/2026/hyundai/tucson/sherwood-park/ab/70378235/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2462,7 +2728,7 @@
       "odometer_km": 16,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson Preferred",
+      "model": "Tucson",
       "condition": "new"
     },
     {
@@ -2470,6 +2736,7 @@
       "vin": "KM8JCCDE8TU489856",
       "stock": "26TU985",
       "color": "Grey",
+      "trim": "Preferred Trend",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/new/ddeb153edb18.html",
       "source_url": "https://www.sphyundai.com/vehicles/2026/hyundai/tucson/sherwood-park/ab/70588341/?sale_class=new",
       "dealer_url": "https://www.sphyundai.com/vehicles/2026/hyundai/tucson/sherwood-park/ab/70588341/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2479,7 +2746,7 @@
       "odometer_km": 16,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson Preferred Trend",
+      "model": "Tucson",
       "condition": "new"
     },
     {
@@ -2487,6 +2754,7 @@
       "vin": "KM8JBCDE1TU490446",
       "stock": "26TU044",
       "color": "Grey",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/new/f3e4ff057b43.html",
       "source_url": "https://www.sphyundai.com/vehicles/2026/hyundai/tucson/sherwood-park/ab/70849592/?sale_class=new",
       "dealer_url": "https://www.sphyundai.com/vehicles/2026/hyundai/tucson/sherwood-park/ab/70849592/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2496,7 +2764,7 @@
       "odometer_km": 16,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson Preferred",
+      "model": "Tucson",
       "condition": "new"
     },
     {
@@ -2504,6 +2772,7 @@
       "vin": "KM8JBCDE4TU490456",
       "stock": "26TU045",
       "color": "Grey",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/new/c426a9f598bb.html",
       "source_url": "https://www.sphyundai.com/vehicles/2026/hyundai/tucson/sherwood-park/ab/70849594/?sale_class=new",
       "dealer_url": "https://www.sphyundai.com/vehicles/2026/hyundai/tucson/sherwood-park/ab/70849594/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2513,7 +2782,7 @@
       "odometer_km": 16,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson Preferred",
+      "model": "Tucson",
       "condition": "new"
     },
     {
@@ -2521,6 +2790,7 @@
       "vin": "KM8JBCDE4TU490280",
       "stock": "26TU028",
       "color": "Grey",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/new/8d7a4cde828e.html",
       "source_url": "https://www.sphyundai.com/vehicles/2026/hyundai/tucson/sherwood-park/ab/70849596/?sale_class=new",
       "dealer_url": "https://www.sphyundai.com/vehicles/2026/hyundai/tucson/sherwood-park/ab/70849596/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2530,7 +2800,7 @@
       "odometer_km": 25,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson Preferred",
+      "model": "Tucson",
       "condition": "new"
     },
     {
@@ -2538,6 +2808,7 @@
       "vin": "KM8JBCDE6TU490815",
       "stock": "26TU081",
       "color": "Silver",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/new/bc0080a37b05.html",
       "source_url": "https://www.sphyundai.com/vehicles/2026/hyundai/tucson/sherwood-park/ab/70872233/?sale_class=new",
       "dealer_url": "https://www.sphyundai.com/vehicles/2026/hyundai/tucson/sherwood-park/ab/70872233/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2547,7 +2818,7 @@
       "odometer_km": 16,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson Preferred",
+      "model": "Tucson",
       "condition": "new"
     },
     {
@@ -2555,6 +2826,7 @@
       "vin": "KM8JCCDE1TU490511",
       "stock": "26TU051",
       "color": "Grey",
+      "trim": "Preferred Trend",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/new/ed04e5bcb571.html",
       "source_url": "https://www.sphyundai.com/vehicles/2026/hyundai/tucson/sherwood-park/ab/70872238/?sale_class=new",
       "dealer_url": "https://www.sphyundai.com/vehicles/2026/hyundai/tucson/sherwood-park/ab/70872238/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2564,7 +2836,7 @@
       "odometer_km": 16,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson Preferred Trend",
+      "model": "Tucson",
       "condition": "new"
     },
     {
@@ -2572,6 +2844,7 @@
       "vin": "KM8JBCDE6TU490474",
       "stock": "26TU047",
       "color": "Grey",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/new/3c8e2c94fb39.html",
       "source_url": "https://www.sphyundai.com/vehicles/2026/hyundai/tucson/sherwood-park/ab/70872246/?sale_class=new",
       "dealer_url": "https://www.sphyundai.com/vehicles/2026/hyundai/tucson/sherwood-park/ab/70872246/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2581,7 +2854,7 @@
       "odometer_km": 101,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson Preferred",
+      "model": "Tucson",
       "condition": "new"
     },
     {
@@ -2589,6 +2862,7 @@
       "vin": "KM8JCCDE5TU494562",
       "stock": "26TU456",
       "color": "Grey",
+      "trim": "Preferred Trend",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/new/a2dfad3ae49a.html",
       "source_url": "https://www.sphyundai.com/vehicles/2026/hyundai/tucson/sherwood-park/ab/70875324/?sale_class=new",
       "dealer_url": "https://www.sphyundai.com/vehicles/2026/hyundai/tucson/sherwood-park/ab/70875324/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2598,7 +2872,7 @@
       "odometer_km": 3000,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson Preferred Trend",
+      "model": "Tucson",
       "condition": "new"
     },
     {
@@ -2606,6 +2880,7 @@
       "vin": "KM8JCCDE9TU494029",
       "stock": "26TU402",
       "color": "Grey",
+      "trim": "Preferred Trend",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/new/73f33fd28e32.html",
       "source_url": "https://www.sphyundai.com/vehicles/2026/hyundai/tucson/sherwood-park/ab/70875331/?sale_class=new",
       "dealer_url": "https://www.sphyundai.com/vehicles/2026/hyundai/tucson/sherwood-park/ab/70875331/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2615,7 +2890,7 @@
       "odometer_km": 16,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson Preferred Trend",
+      "model": "Tucson",
       "condition": "new"
     },
     {
@@ -2623,6 +2898,7 @@
       "vin": "KM8JCCDE2TU493319",
       "stock": "26TU331",
       "color": "Grey",
+      "trim": "Preferred Trend",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/new/bd7a950f4361.html",
       "source_url": "https://www.sphyundai.com/vehicles/2026/hyundai/tucson/sherwood-park/ab/70994110/?sale_class=new",
       "dealer_url": "https://www.sphyundai.com/vehicles/2026/hyundai/tucson/sherwood-park/ab/70994110/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2632,7 +2908,7 @@
       "odometer_km": 15,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson Preferred Trend",
+      "model": "Tucson",
       "condition": "new"
     },
     {
@@ -2640,6 +2916,7 @@
       "vin": "KM8JCCDE6TU493498",
       "stock": "26TU349",
       "color": "Grey",
+      "trim": "Preferred Trend",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/new/d718601578ca.html",
       "source_url": "https://www.sphyundai.com/vehicles/2026/hyundai/tucson/sherwood-park/ab/70994118/?sale_class=new",
       "dealer_url": "https://www.sphyundai.com/vehicles/2026/hyundai/tucson/sherwood-park/ab/70994118/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2649,7 +2926,7 @@
       "odometer_km": 17,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson Preferred Trend",
+      "model": "Tucson",
       "condition": "new"
     },
     {
@@ -2657,6 +2934,7 @@
       "vin": "KM8JCCDE0TU493464",
       "stock": "26TU346",
       "color": "Grey",
+      "trim": "Preferred Trend",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/new/2ccc00e65647.html",
       "source_url": "https://www.sphyundai.com/vehicles/2026/hyundai/tucson/sherwood-park/ab/70994125/?sale_class=new",
       "dealer_url": "https://www.sphyundai.com/vehicles/2026/hyundai/tucson/sherwood-park/ab/70994125/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2666,7 +2944,7 @@
       "odometer_km": 18,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson Preferred Trend",
+      "model": "Tucson",
       "condition": "new"
     },
     {
@@ -2674,6 +2952,7 @@
       "vin": "KM8JCCDEXTU493195",
       "stock": "26TU319",
       "color": "Grey",
+      "trim": "Preferred Trend",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/new/ad1e90ac1fe4.html",
       "source_url": "https://www.sphyundai.com/vehicles/2026/hyundai/tucson/sherwood-park/ab/70994126/?sale_class=new",
       "dealer_url": "https://www.sphyundai.com/vehicles/2026/hyundai/tucson/sherwood-park/ab/70994126/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2683,7 +2962,7 @@
       "odometer_km": 16,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson Preferred Trend",
+      "model": "Tucson",
       "condition": "new"
     },
     {
@@ -2691,6 +2970,7 @@
       "vin": "KM8JCCDE0TU493495",
       "stock": "26TU349",
       "color": "Grey",
+      "trim": "Preferred Trend",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/new/342748f1f36b.html",
       "source_url": "https://www.sphyundai.com/vehicles/2026/hyundai/tucson/sherwood-park/ab/70994137/?sale_class=new",
       "dealer_url": "https://www.sphyundai.com/vehicles/2026/hyundai/tucson/sherwood-park/ab/70994137/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2700,7 +2980,7 @@
       "odometer_km": 16,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson Preferred Trend",
+      "model": "Tucson",
       "condition": "new"
     },
     {
@@ -2708,6 +2988,7 @@
       "vin": "3KMJBCDE5TE031968",
       "stock": "26TU196",
       "color": "Black",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/new/ba1a368e747a.html",
       "source_url": "https://www.sphyundai.com/vehicles/2026/hyundai/tucson/sherwood-park/ab/71377512/?sale_class=new",
       "dealer_url": "https://www.sphyundai.com/vehicles/2026/hyundai/tucson/sherwood-park/ab/71377512/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2717,7 +2998,7 @@
       "odometer_km": 8178,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson Preferred AWD",
+      "model": "Tucson",
       "condition": "new"
     },
     {
@@ -2725,6 +3006,7 @@
       "vin": "KMHRC8A35TU483919",
       "stock": "26VN391",
       "color": "Black",
+      "trim": "Ultimate",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/new/86477ca3601a.html",
       "source_url": "https://www.sphyundai.com/vehicles/2026/hyundai/venue/sherwood-park/ab/70590716/?sale_class=new",
       "dealer_url": "https://www.sphyundai.com/vehicles/2026/hyundai/venue/sherwood-park/ab/70590716/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2734,7 +3016,7 @@
       "odometer_km": 16,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Venue Ultimate",
+      "model": "Venue",
       "condition": "new"
     },
     {
@@ -2742,6 +3024,7 @@
       "vin": "KMHRC8A38TU491870",
       "stock": "26VN187",
       "color": "White",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/new/dd8adeb42696.html",
       "source_url": "https://www.sphyundai.com/vehicles/2026/hyundai/venue/sherwood-park/ab/70849589/?sale_class=new",
       "dealer_url": "https://www.sphyundai.com/vehicles/2026/hyundai/venue/sherwood-park/ab/70849589/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2751,7 +3034,7 @@
       "odometer_km": 17,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Venue Preferred",
+      "model": "Venue",
       "condition": "new"
     },
     {
@@ -2759,6 +3042,7 @@
       "vin": "KMHRC8A34TU496001",
       "stock": "26VN600",
       "color": "Green",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/new/0703efabfbc0.html",
       "source_url": "https://www.sphyundai.com/vehicles/2026/hyundai/venue/sherwood-park/ab/70875323/?sale_class=new",
       "dealer_url": "https://www.sphyundai.com/vehicles/2026/hyundai/venue/sherwood-park/ab/70875323/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2768,7 +3052,7 @@
       "odometer_km": 18,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Venue Preferred",
+      "model": "Venue",
       "condition": "new"
     },
     {
@@ -2776,6 +3060,7 @@
       "vin": "KMHRC8A35TU496007",
       "stock": "26VN600",
       "color": "Green",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/new/0473666f7874.html",
       "source_url": "https://www.sphyundai.com/vehicles/2026/hyundai/venue/sherwood-park/ab/70875330/?sale_class=new",
       "dealer_url": "https://www.sphyundai.com/vehicles/2026/hyundai/venue/sherwood-park/ab/70875330/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2785,7 +3070,7 @@
       "odometer_km": 17,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Venue Preferred",
+      "model": "Venue",
       "condition": "new"
     },
     {
@@ -2793,6 +3078,7 @@
       "vin": "KMHRC8A31TU490480",
       "stock": "26VN048",
       "color": "Grey",
+      "trim": "Ultimate",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/new/2e5913b0920b.html",
       "source_url": "https://www.sphyundai.com/vehicles/2026/hyundai/venue/sherwood-park/ab/70875332/?sale_class=new",
       "dealer_url": "https://www.sphyundai.com/vehicles/2026/hyundai/venue/sherwood-park/ab/70875332/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2802,7 +3088,7 @@
       "odometer_km": 16,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Venue Ultimate",
+      "model": "Venue",
       "condition": "new"
     },
     {
@@ -2810,6 +3096,7 @@
       "vin": "KMHRC8A39TU498939",
       "stock": "26VN893",
       "color": "Black",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/new/1222849c654e.html",
       "source_url": "https://www.sphyundai.com/vehicles/2026/hyundai/venue/sherwood-park/ab/71190308/?sale_class=new",
       "dealer_url": "https://www.sphyundai.com/vehicles/2026/hyundai/venue/sherwood-park/ab/71190308/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2819,7 +3106,7 @@
       "odometer_km": 30,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Venue Preferred",
+      "model": "Venue",
       "condition": "new"
     },
     {
@@ -2827,6 +3114,7 @@
       "vin": "JA4ATVAA3TZ601204",
       "stock": "27KN326",
       "color": "Red",
+      "trim": "SE",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/used/ec56e70e3514.html",
       "source_url": "https://www.sphyundai.com/vehicles/2026/mitsubishi/eclipse-cross/sherwood-park/ab/71187124/?sale_class=used",
       "dealer_url": "https://www.sphyundai.com/vehicles/2026/mitsubishi/eclipse-cross/sherwood-park/ab/71187124/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2836,7 +3124,7 @@
       "odometer_km": 16422,
       "year": 2026,
       "make": "Mitsubishi",
-      "model": "Eclipse Cross SE",
+      "model": "Eclipse Cross",
       "condition": "used"
     },
     {
@@ -2844,6 +3132,7 @@
       "vin": "KM8HECA37VU509674",
       "stock": "27KN967",
       "color": "Blue",
+      "trim": "N-Line Ultimate",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/new/ab6ec5d5f0a1.html",
       "source_url": "https://www.sphyundai.com/vehicles/2027/hyundai/kona/sherwood-park/ab/70849588/?sale_class=new",
       "dealer_url": "https://www.sphyundai.com/vehicles/2027/hyundai/kona/sherwood-park/ab/70849588/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2853,7 +3142,7 @@
       "odometer_km": 15,
       "year": 2027,
       "make": "Hyundai",
-      "model": "Kona N-Line Ultimate",
+      "model": "Kona",
       "condition": "new"
     },
     {
@@ -2861,6 +3150,7 @@
       "vin": "KM8HA3AB4VU502622",
       "stock": "27KN262",
       "color": "Black",
+      "trim": "Essential",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/new/8eb5b3e71449.html",
       "source_url": "https://www.sphyundai.com/vehicles/2027/hyundai/kona/sherwood-park/ab/70849595/?sale_class=new",
       "dealer_url": "https://www.sphyundai.com/vehicles/2027/hyundai/kona/sherwood-park/ab/70849595/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2870,7 +3160,7 @@
       "odometer_km": 16,
       "year": 2027,
       "make": "Hyundai",
-      "model": "Kona Essential",
+      "model": "Kona",
       "condition": "new"
     },
     {
@@ -2878,6 +3168,7 @@
       "vin": "KM8HBCAB0VU502193",
       "stock": "27KN219",
       "color": "Grey",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/new/59f07b364942.html",
       "source_url": "https://www.sphyundai.com/vehicles/2027/hyundai/kona/sherwood-park/ab/70849597/?sale_class=new",
       "dealer_url": "https://www.sphyundai.com/vehicles/2027/hyundai/kona/sherwood-park/ab/70849597/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2887,7 +3178,7 @@
       "odometer_km": 17,
       "year": 2027,
       "make": "Hyundai",
-      "model": "Kona Preferred",
+      "model": "Kona",
       "condition": "new"
     },
     {
@@ -2895,6 +3186,7 @@
       "vin": "KM8HECA33VU509610",
       "stock": "27KN961",
       "color": "Green",
+      "trim": "N-Line Ultimate",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/new/9197b91ad3b4.html",
       "source_url": "https://www.sphyundai.com/vehicles/2027/hyundai/kona/sherwood-park/ab/70849599/?sale_class=new",
       "dealer_url": "https://www.sphyundai.com/vehicles/2027/hyundai/kona/sherwood-park/ab/70849599/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2904,7 +3196,7 @@
       "odometer_km": 30,
       "year": 2027,
       "make": "Hyundai",
-      "model": "Kona N-Line Ultimate",
+      "model": "Kona",
       "condition": "new"
     },
     {
@@ -2912,6 +3204,7 @@
       "vin": "KM8HA3AB8VU512814",
       "stock": "27KN281",
       "color": "Black",
+      "trim": "Essential",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/new/7caab5b69d1f.html",
       "source_url": "https://www.sphyundai.com/vehicles/2027/hyundai/kona/sherwood-park/ab/70849604/?sale_class=new",
       "dealer_url": "https://www.sphyundai.com/vehicles/2027/hyundai/kona/sherwood-park/ab/70849604/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2921,7 +3214,7 @@
       "odometer_km": 15,
       "year": 2027,
       "make": "Hyundai",
-      "model": "Kona Essential",
+      "model": "Kona",
       "condition": "new"
     },
     {
@@ -2929,6 +3222,7 @@
       "vin": "KM8HECA39VU509692",
       "stock": "27KN969",
       "color": "Blue",
+      "trim": "N-Line Ultimate",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/new/b7f4bbae1e72.html",
       "source_url": "https://www.sphyundai.com/vehicles/2027/hyundai/kona/sherwood-park/ab/70849607/?sale_class=new",
       "dealer_url": "https://www.sphyundai.com/vehicles/2027/hyundai/kona/sherwood-park/ab/70849607/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2938,7 +3232,7 @@
       "odometer_km": 15,
       "year": 2027,
       "make": "Hyundai",
-      "model": "Kona N-Line Ultimate",
+      "model": "Kona",
       "condition": "new"
     },
     {
@@ -2946,6 +3240,7 @@
       "vin": "KM8HBCAB8VU517055",
       "stock": "27KN705",
       "color": "Black",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/new/dee52b9b0c22.html",
       "source_url": "https://www.sphyundai.com/vehicles/2027/hyundai/kona/sherwood-park/ab/70872236/?sale_class=new",
       "dealer_url": "https://www.sphyundai.com/vehicles/2027/hyundai/kona/sherwood-park/ab/70872236/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2955,7 +3250,7 @@
       "odometer_km": 15,
       "year": 2027,
       "make": "Hyundai",
-      "model": "Kona Preferred",
+      "model": "Kona",
       "condition": "new"
     },
     {
@@ -2963,6 +3258,7 @@
       "vin": "KM8HECA35VU522908",
       "stock": "TR-27KN",
       "color": "Green",
+      "trim": "N-Line Ultimate",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/new/8246ca561d90.html",
       "source_url": "https://www.sphyundai.com/vehicles/2027/hyundai/kona/sherwood-park/ab/70872253/?sale_class=new",
       "dealer_url": "https://www.sphyundai.com/vehicles/2027/hyundai/kona/sherwood-park/ab/70872253/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2972,7 +3268,7 @@
       "odometer_km": 15,
       "year": 2027,
       "make": "Hyundai",
-      "model": "Kona N-Line Ultimate",
+      "model": "Kona",
       "condition": "new"
     },
     {
@@ -2980,6 +3276,7 @@
       "vin": "KM8HBCAB9VU526993",
       "stock": "27KN699",
       "color": "Green",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/new/87cba43bf18e.html",
       "source_url": "https://www.sphyundai.com/vehicles/2027/hyundai/kona/sherwood-park/ab/71148697/?sale_class=new",
       "dealer_url": "https://www.sphyundai.com/vehicles/2027/hyundai/kona/sherwood-park/ab/71148697/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2989,7 +3286,7 @@
       "odometer_km": 14,
       "year": 2027,
       "make": "Hyundai",
-      "model": "Kona Preferred",
+      "model": "Kona",
       "condition": "new"
     },
     {
@@ -2997,6 +3294,7 @@
       "vin": "KM8HACAB6VU527795",
       "stock": "27KN779",
       "color": "Black",
+      "trim": "Essential",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/new/d065ad2957d8.html",
       "source_url": "https://www.sphyundai.com/vehicles/2027/hyundai/kona/sherwood-park/ab/71148698/?sale_class=new",
       "dealer_url": "https://www.sphyundai.com/vehicles/2027/hyundai/kona/sherwood-park/ab/71148698/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3006,7 +3304,7 @@
       "odometer_km": 16,
       "year": 2027,
       "make": "Hyundai",
-      "model": "Kona Essential",
+      "model": "Kona",
       "condition": "new"
     },
     {
@@ -3014,6 +3312,7 @@
       "vin": "KM8HBCAB5VU526988",
       "stock": "27KN698",
       "color": "Green",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/new/f4281c4ba487.html",
       "source_url": "https://www.sphyundai.com/vehicles/2027/hyundai/kona/sherwood-park/ab/71148699/?sale_class=new",
       "dealer_url": "https://www.sphyundai.com/vehicles/2027/hyundai/kona/sherwood-park/ab/71148699/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3023,7 +3322,7 @@
       "odometer_km": 30,
       "year": 2027,
       "make": "Hyundai",
-      "model": "Kona Preferred",
+      "model": "Kona",
       "condition": "new"
     },
     {
@@ -3031,6 +3330,7 @@
       "vin": "KM8HBCAB7VU526961",
       "stock": "27KN696",
       "color": "Green",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/new/46989db087af.html",
       "source_url": "https://www.sphyundai.com/vehicles/2027/hyundai/kona/sherwood-park/ab/71148702/?sale_class=new",
       "dealer_url": "https://www.sphyundai.com/vehicles/2027/hyundai/kona/sherwood-park/ab/71148702/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3040,7 +3340,7 @@
       "odometer_km": 16,
       "year": 2027,
       "make": "Hyundai",
-      "model": "Kona Preferred",
+      "model": "Kona",
       "condition": "new"
     },
     {
@@ -3048,6 +3348,7 @@
       "vin": "KM8HACAB6VU528106",
       "stock": "27KN810",
       "color": "Black",
+      "trim": "Essential",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/new/7dabca3d64f3.html",
       "source_url": "https://www.sphyundai.com/vehicles/2027/hyundai/kona/sherwood-park/ab/71148703/?sale_class=new",
       "dealer_url": "https://www.sphyundai.com/vehicles/2027/hyundai/kona/sherwood-park/ab/71148703/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3057,7 +3358,7 @@
       "odometer_km": 16,
       "year": 2027,
       "make": "Hyundai",
-      "model": "Kona Essential",
+      "model": "Kona",
       "condition": "new"
     },
     {
@@ -3065,6 +3366,7 @@
       "vin": "KM8HCCAB6VU513390",
       "stock": "27KN339",
       "color": "Green",
+      "trim": "Preferred Trend",
       "url": "https://willyml1979-dotcom.github.io/sherwood-park-hyundai-mirror/new/a2fca520a5e7.html",
       "source_url": "https://www.sphyundai.com/vehicles/2027/hyundai/kona/sherwood-park/ab/71248765/?sale_class=new",
       "dealer_url": "https://www.sphyundai.com/vehicles/2027/hyundai/kona/sherwood-park/ab/71248765/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3074,7 +3376,7 @@
       "odometer_km": 15,
       "year": 2027,
       "make": "Hyundai",
-      "model": "Kona Preferred Trend",
+      "model": "Kona",
       "condition": "new"
     }
   ]
